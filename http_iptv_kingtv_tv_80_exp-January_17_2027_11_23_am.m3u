@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/trt1hd.png" group-title="TR - TURKIYE GENEL 4K+",(TR) TRT1 4K+
 http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:13:51:C6&stream=216887&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/atvtr.png" group-title="TR - TURKIYE GENEL 4K+",(TR) ATV 4K+
