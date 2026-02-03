@@ -1,0 +1,867 @@
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,http://jinxx.mooo.com/live/guide.xml
+#EXTINF:-1 tvg-name="Sky Crime HD DE" group-title="DE Action",Sky Crime HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19001/index.m3u8
+#EXTINF:-1 tvg-name="13th Street HD DE" group-title="DE Action",13th Street HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31281/index.m3u8
+#EXTINF:-1 tvg-name="Crime + Investigation HD DE" group-title="DE Action",Crime + Investigation HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31304/index.m3u8
+#EXTINF:-1 tvg-name="Sky Crime HD DE" group-title="DE Action",Sky Crime HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19001/index.m3u8
+#EXTINF:-1 tvg-name="13th Street HD DE" group-title="DE Action",13th Street HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31281/index.m3u8
+#EXTINF:-1 tvg-name="Crime + Investigation HD DE" group-title="DE Action",Crime + Investigation HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31304/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD DE" group-title="DE Doku",National Geographic HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7255/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD DE" group-title="DE Doku",National Geographic Wild HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7256/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD DE" group-title="DE Doku",Animal Planet HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7257/index.m3u8
+#EXTINF:-1 tvg-name="Sky Nature HD DE" group-title="DE Doku",Sky Nature HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19020/index.m3u8
+#EXTINF:-1 tvg-name="History HD DE" group-title="DE Doku",History HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/20017/index.m3u8
+#EXTINF:-1 tvg-name="History FHD DE" group-title="DE Doku",History FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/20039/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet FHD DE" group-title="DE Doku",Animal Planet FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31284/index.m3u8
+#EXTINF:-1 tvg-name="Heimatkanal DE" group-title="DE Doku",Heimatkanal DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31322/index.m3u8
+#EXTINF:-1 tvg-name="N24 Doku HD DE" group-title="DE Doku",N24 Doku HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31346/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild FHD DE" group-title="DE Doku",National Geographic Wild FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31348/index.m3u8
+#EXTINF:-1 tvg-name="History DE" group-title="DE Doku",History DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31424/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD DE" group-title="DE Doku",National Geographic HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7255/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD DE" group-title="DE Doku",National Geographic Wild HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7256/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD DE" group-title="DE Doku",Animal Planet HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7257/index.m3u8
+#EXTINF:-1 tvg-name="Sky Nature HD DE" group-title="DE Doku",Sky Nature HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19020/index.m3u8
+#EXTINF:-1 tvg-name="History HD DE" group-title="DE Doku",History HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/20017/index.m3u8
+#EXTINF:-1 tvg-name="History FHD DE" group-title="DE Doku",History FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/20039/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet FHD DE" group-title="DE Doku",Animal Planet FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31284/index.m3u8
+#EXTINF:-1 tvg-name="Heimatkanal DE" group-title="DE Doku",Heimatkanal DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31322/index.m3u8
+#EXTINF:-1 tvg-name="N24 Doku HD DE" group-title="DE Doku",N24 Doku HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31346/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild FHD DE" group-title="DE Doku",National Geographic Wild FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31348/index.m3u8
+#EXTINF:-1 tvg-name="History DE" group-title="DE Doku",History DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31424/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema HD DE" group-title="DE Filme",Sky Cinema HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2484/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Highlights HD DE" group-title="DE Filme",Sky Cinema Highlights HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2485/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Family HD DE" group-title="DE Filme",Sky Cinema Family HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2489/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Classics HD DE" group-title="DE Filme",Sky Cinema Classics HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2490/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Film DE" group-title="DE Filme",Warner TV Film DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6111/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Classics DE" group-title="DE Filme",Sky Cinema Classics DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19005/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Family FHD DE" group-title="DE Filme",Sky Cinema Family FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19008/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Premieren HD DE" group-title="DE Filme",Sky Cinema Premieren HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19014/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Classics FHD DE" group-title="DE Filme",Sky Cinema Classics FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19017/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Film HD DE" group-title="DE Filme",Warner TV Film HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/20045/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Film FHD DE" group-title="DE Filme",Warner TV Film FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31434/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Action HD DE" group-title="DE Filme",Sky Cinema Action HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19098/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema HD DE" group-title="DE Filme",Sky Cinema HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2484/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Highlights HD DE" group-title="DE Filme",Sky Cinema Highlights HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2485/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Family HD DE" group-title="DE Filme",Sky Cinema Family HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2489/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Classics HD DE" group-title="DE Filme",Sky Cinema Classics HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2490/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Film DE" group-title="DE Filme",Warner TV Film DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6111/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Classics DE" group-title="DE Filme",Sky Cinema Classics DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19005/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Family FHD DE" group-title="DE Filme",Sky Cinema Family FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19008/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Premieren HD DE" group-title="DE Filme",Sky Cinema Premieren HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19014/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Classics FHD DE" group-title="DE Filme",Sky Cinema Classics FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19017/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Film HD DE" group-title="DE Filme",Warner TV Film HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/20045/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Film FHD DE" group-title="DE Filme",Warner TV Film FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31434/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Action HD DE" group-title="DE Filme",Sky Cinema Action HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19098/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino World orig" group-title="DE Filme",Viasat Kino World orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31447/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino World HD" group-title="DE Filme",Viasat Kino World HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31448/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino World HD orig" group-title="DE Filme",Viasat Kino World HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31449/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito DE" group-title="DE Kinder",Cartoonito DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/20042/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. HD DE" group-title="DE Kinder",Nick Jr. HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/20043/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network DE" group-title="DE Kinder",Cartoon Network DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31298/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito HD DE" group-title="DE Kinder",Cartoonito HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31299/index.m3u8
+#EXTINF:-1 tvg-name="Nick/Comedy Central+1 DE" group-title="DE Kinder",Nick/Comedy Central+1 DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31351/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito DE" group-title="DE Kinder",Cartoonito DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/20042/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. HD DE" group-title="DE Kinder",Nick Jr. HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/20043/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network DE" group-title="DE Kinder",Cartoon Network DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31298/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito HD DE" group-title="DE Kinder",Cartoonito HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31299/index.m3u8
+#EXTINF:-1 tvg-name="Nick/Comedy Central+1 DE" group-title="DE Kinder",Nick/Comedy Central+1 DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31351/index.m3u8
+#EXTINF:-1 tvg-name="Sky Arts HD DE" group-title="DE Kultur",Sky Arts HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2494/index.m3u8
+#EXTINF:-1 tvg-name="Arte DE" group-title="DE Kultur",Arte DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15171/index.m3u8
+#EXTINF:-1 tvg-name="Arte HD DE" group-title="DE Kultur",Arte HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31288/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Classica HD DE" group-title="DE Kultur",Stingray Classica HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31415/index.m3u8
+#EXTINF:-1 tvg-name="Sky Arts HD DE" group-title="DE Kultur",Sky Arts HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2494/index.m3u8
+#EXTINF:-1 tvg-name="Arte DE" group-title="DE Kultur",Arte DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15171/index.m3u8
+#EXTINF:-1 tvg-name="Arte HD DE" group-title="DE Kultur",Arte HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31288/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Classica HD DE" group-title="DE Kultur",Stingray Classica HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31415/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music HD DE" group-title="DE Musik",Deluxe Music HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/17047/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music FHD DE" group-title="DE Musik",Deluxe Music FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31307/index.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen HD DE" group-title="DE Musik",Deutsches Musik Fernsehen HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31308/index.m3u8
+#EXTINF:-1 tvg-name="Folx Music Television HD DE" group-title="DE Musik",Folx Music Television HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31317/index.m3u8
+#EXTINF:-1 tvg-name="MTV HD DE" group-title="DE Musik",MTV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31344/index.m3u8
+#EXTINF:-1 tvg-name="One Music Television HD DE" group-title="DE Musik",One Music Television HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31354/index.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen TV HD DE" group-title="DE Musik",Radio Bremen TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31363/index.m3u8
+#EXTINF:-1 tvg-name="Stingray iConcerts HD DE" group-title="DE Musik",Stingray iConcerts HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31417/index.m3u8
+#EXTINF:-1 tvg-name="Volksmusik.TV HD DE" group-title="DE Musik",Volksmusik.TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31430/index.m3u8
+#EXTINF:-1 tvg-name="Zwei Music Television HD DE" group-title="DE Musik",Zwei Music Television HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31444/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music HD DE" group-title="DE Musik",Deluxe Music HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/17047/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music FHD DE" group-title="DE Musik",Deluxe Music FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31307/index.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen HD DE" group-title="DE Musik",Deutsches Musik Fernsehen HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31308/index.m3u8
+#EXTINF:-1 tvg-name="Folx Music Television HD DE" group-title="DE Musik",Folx Music Television HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31317/index.m3u8
+#EXTINF:-1 tvg-name="MTV HD DE" group-title="DE Musik",MTV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31344/index.m3u8
+#EXTINF:-1 tvg-name="One Music Television HD DE" group-title="DE Musik",One Music Television HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31354/index.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen TV HD DE" group-title="DE Musik",Radio Bremen TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31363/index.m3u8
+#EXTINF:-1 tvg-name="Stingray iConcerts HD DE" group-title="DE Musik",Stingray iConcerts HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31417/index.m3u8
+#EXTINF:-1 tvg-name="Volksmusik.TV HD DE" group-title="DE Musik",Volksmusik.TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31430/index.m3u8
+#EXTINF:-1 tvg-name="Zwei Music Television HD DE" group-title="DE Musik",Zwei Music Television HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31444/index.m3u8
+#EXTINF:-1 tvg-name="Spiegel Geschichte FHD DE" group-title="DE News",Spiegel Geschichte FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6091/index.m3u8
+#EXTINF:-1 tvg-name="Welt DE" group-title="DE News",Welt DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7258/index.m3u8
+#EXTINF:-1 tvg-name="Welt HD DE" group-title="DE News",Welt HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15169/index.m3u8
+#EXTINF:-1 tvg-name="Asharq News HD DE" group-title="DE News",Asharq News HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31289/index.m3u8
+#EXTINF:-1 tvg-name="CNN International HD DE" group-title="DE News",CNN International HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31301/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Deutsch DE" group-title="DE News",Euronews Deutsch DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31313/index.m3u8
+#EXTINF:-1 tvg-name="KinoweltTV HD DE" group-title="DE News",KinoweltTV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31333/index.m3u8
+#EXTINF:-1 tvg-name="Tagesschau24 HD DE" group-title="DE News",Tagesschau24 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31371/index.m3u8
+#EXTINF:-1 tvg-name="Spiegel Geschichte HD DE" group-title="DE News",Spiegel Geschichte HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31392/index.m3u8
+#EXTINF:-1 tvg-name="Welt FHD DE" group-title="DE News",Welt FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31438/index.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder HD DE" group-title="DE News",Welt der Wunder HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31439/index.m3u8
+#EXTINF:-1 tvg-name="Spiegel Geschichte FHD DE" group-title="DE News",Spiegel Geschichte FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6091/index.m3u8
+#EXTINF:-1 tvg-name="Welt DE" group-title="DE News",Welt DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7258/index.m3u8
+#EXTINF:-1 tvg-name="Welt HD DE" group-title="DE News",Welt HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15169/index.m3u8
+#EXTINF:-1 tvg-name="Asharq News HD DE" group-title="DE News",Asharq News HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31289/index.m3u8
+#EXTINF:-1 tvg-name="CNN International HD DE" group-title="DE News",CNN International HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31301/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Deutsch DE" group-title="DE News",Euronews Deutsch DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31313/index.m3u8
+#EXTINF:-1 tvg-name="KinoweltTV HD DE" group-title="DE News",KinoweltTV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31333/index.m3u8
+#EXTINF:-1 tvg-name="Tagesschau24 HD DE" group-title="DE News",Tagesschau24 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31371/index.m3u8
+#EXTINF:-1 tvg-name="Spiegel Geschichte HD DE" group-title="DE News",Spiegel Geschichte HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31392/index.m3u8
+#EXTINF:-1 tvg-name="Welt FHD DE" group-title="DE News",Welt FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31438/index.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder HD DE" group-title="DE News",Welt der Wunder HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31439/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Serie HD DE" group-title="DE Serie",Warner TV Serie HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6090/index.m3u8
+#EXTINF:-1 tvg-name="Sky Showcase HD DE" group-title="DE Serie",Sky Showcase HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19003/index.m3u8
+#EXTINF:-1 tvg-name="Anixe HD Serie DE" group-title="DE Serie",Anixe HD Serie DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31285/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Serie HD DE" group-title="DE Serie",Warner TV Serie HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6090/index.m3u8
+#EXTINF:-1 tvg-name="Sky Showcase HD DE" group-title="DE Serie",Sky Showcase HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19003/index.m3u8
+#EXTINF:-1 tvg-name="Anixe HD Serie DE" group-title="DE Serie",Anixe HD Serie DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31285/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" group-title="DE Sport",Sky Sport F1 FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/10079/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="DE Sport",Sky Sport Mix HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/5039/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" group-title="DE Sport",Sky Sport Golf HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/5043/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Premier League HD DE" group-title="DE Sport",Sky Sport Premier League HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/5042/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport News HD DE" group-title="DE Sport",Sky Sport News HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2477/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 FHD DE" group-title="DE Sport",Sky Sport 1 FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2478/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE Sport",Sky Sport 2 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2479/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="DE Sport",Sky Sport Bundesliga 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2480/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD DE" group-title="DE Sport",Sky Sport Austria 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2492/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1 HD DE" group-title="DE Sport",Sport 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2503/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 FHD DE" group-title="DE Sport",Sky Sport Bundesliga 9 FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6097/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 2 HD DE" group-title="DE Sport",Sky Sport Austria 2 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6113/index.m3u8
+#EXTINF:-1 tvg-name="Motorvision+ DE" group-title="DE Sport",Motorvision+ DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6112/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="DE Sport",Sky Sport Bundesliga 2 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7234/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE Sport",Sky Sport Bundesliga 3 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7235/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="DE Sport",Sky Sport Bundesliga 5 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7237/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="DE Sport",Sky Sport Bundesliga 6 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7238/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="DE Sport",Sky Sport Bundesliga 7 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7239/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="DE Sport",Sky Sport Bundesliga 8 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7240/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 HD DE" group-title="DE Sport",Sky Sport Bundesliga 9 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7241/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 FHD DE" group-title="DE Sport",Eurosport 1 FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15179/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 HD DE" group-title="DE Sport",Sky Sport F1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19022/index.m3u8
+#EXTINF:-1 tvg-name="Sportdigital Fussball HD DE" group-title="DE Sport",Sportdigital Fussball HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19023/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 DE" group-title="DE Sport",Sky Sport F1 DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19027/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="DE Sport",Sky Sport 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19028/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 3 HD DE" group-title="DE Sport",Sky Sport 3 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19030/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 4 HD DE" group-title="DE Sport",Sky Sport 4 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19031/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE Sport",Sky Sport 5 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19032/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 6 HD DE" group-title="DE Sport",Sky Sport 6 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19033/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 7 HD DE" group-title="DE Sport",Sky Sport 7 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19034/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 8 HD DE" group-title="DE Sport",Sky Sport 8 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19035/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 9 HD DE" group-title="DE Sport",Sky Sport 9 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19036/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 10 HD DE" group-title="DE Sport",Sky Sport 10 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19037/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 360 HD DE" group-title="DE Sport",Eurosport 360 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19040/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 HD DE" group-title="DE Sport",DAZN 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19042/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 HD DE" group-title="DE Sport",DAZN 2 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19043/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport UHD DE" group-title="DE Sport",Sky Sport UHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19044/index.m3u8
+#EXTINF:-1 tvg-name="Auto Motor und Sport FHD DE" group-title="DE Sport",Auto Motor und Sport FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31290/index.m3u8
+#EXTINF:-1 tvg-name="eSports ONE HD DE" group-title="DE Sport",eSports ONE HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31311/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD DE" group-title="DE Sport",Eurosport 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31314/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD DE" group-title="DE Sport",Eurosport 2 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31315/index.m3u8
+#EXTINF:-1 tvg-name="More Than Sports TV HD DE" group-title="DE Sport",More Than Sports TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31341/index.m3u8
+#EXTINF:-1 tvg-name="MS Sport HD DE" group-title="DE Sport",MS Sport HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31343/index.m3u8
+#EXTINF:-1 tvg-name="Servus TV Motorsport HD DE" group-title="DE Sport",Servus TV Motorsport HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31385/index.m3u8
+#EXTINF:-1 tvg-name="Sportdigital Fussball DE" group-title="DE Sport",Sportdigital Fussball DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31411/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" group-title="DE Sport",Sky Sport F1 FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/10079/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="DE Sport",Sky Sport Mix HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/5039/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" group-title="DE Sport",Sky Sport Golf HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/5043/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Premier League HD DE" group-title="DE Sport",Sky Sport Premier League HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/5042/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport News HD DE" group-title="DE Sport",Sky Sport News HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2477/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 FHD DE" group-title="DE Sport",Sky Sport 1 FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2478/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE Sport",Sky Sport 2 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2479/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="DE Sport",Sky Sport Bundesliga 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2480/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD DE" group-title="DE Sport",Sky Sport Austria 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2492/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1 HD DE" group-title="DE Sport",Sport 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2503/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 FHD DE" group-title="DE Sport",Sky Sport Bundesliga 9 FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6097/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 2 HD DE" group-title="DE Sport",Sky Sport Austria 2 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6113/index.m3u8
+#EXTINF:-1 tvg-name="Motorvision+ DE" group-title="DE Sport",Motorvision+ DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6112/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="DE Sport",Sky Sport Bundesliga 2 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7234/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE Sport",Sky Sport Bundesliga 3 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7235/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="DE Sport",Sky Sport Bundesliga 5 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7237/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="DE Sport",Sky Sport Bundesliga 6 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7238/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="DE Sport",Sky Sport Bundesliga 7 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7239/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="DE Sport",Sky Sport Bundesliga 8 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7240/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 HD DE" group-title="DE Sport",Sky Sport Bundesliga 9 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7241/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 FHD DE" group-title="DE Sport",Eurosport 1 FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15179/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 HD DE" group-title="DE Sport",Sky Sport F1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19022/index.m3u8
+#EXTINF:-1 tvg-name="Sportdigital Fussball HD DE" group-title="DE Sport",Sportdigital Fussball HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19023/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 DE" group-title="DE Sport",Sky Sport F1 DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19027/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="DE Sport",Sky Sport 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19028/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 3 HD DE" group-title="DE Sport",Sky Sport 3 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19030/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 4 HD DE" group-title="DE Sport",Sky Sport 4 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19031/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE Sport",Sky Sport 5 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19032/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 6 HD DE" group-title="DE Sport",Sky Sport 6 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19033/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 7 HD DE" group-title="DE Sport",Sky Sport 7 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19034/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 8 HD DE" group-title="DE Sport",Sky Sport 8 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19035/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 9 HD DE" group-title="DE Sport",Sky Sport 9 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19036/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 10 HD DE" group-title="DE Sport",Sky Sport 10 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19037/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 360 HD DE" group-title="DE Sport",Eurosport 360 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19040/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 HD DE" group-title="DE Sport",DAZN 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19042/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 HD DE" group-title="DE Sport",DAZN 2 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19043/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport UHD DE" group-title="DE Sport",Sky Sport UHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19044/index.m3u8
+#EXTINF:-1 tvg-name="Auto Motor und Sport FHD DE" group-title="DE Sport",Auto Motor und Sport FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31290/index.m3u8
+#EXTINF:-1 tvg-name="eSports ONE HD DE" group-title="DE Sport",eSports ONE HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31311/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD DE" group-title="DE Sport",Eurosport 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31314/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD DE" group-title="DE Sport",Eurosport 2 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31315/index.m3u8
+#EXTINF:-1 tvg-name="More Than Sports TV HD DE" group-title="DE Sport",More Than Sports TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31341/index.m3u8
+#EXTINF:-1 tvg-name="MS Sport HD DE" group-title="DE Sport",MS Sport HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31343/index.m3u8
+#EXTINF:-1 tvg-name="Servus TV Motorsport HD DE" group-title="DE Sport",Servus TV Motorsport HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31385/index.m3u8
+#EXTINF:-1 tvg-name="Sportdigital Fussball DE" group-title="DE Sport",Sportdigital Fussball DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31411/index.m3u8
+#EXTINF:-1 tvg-name="ZDF HD DE" group-title="DE TV Öffentlich-rechtlich",ZDF HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6059/index.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD DE" group-title="DE TV Öffentlich-rechtlich",Das Erste HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15172/index.m3u8
+#EXTINF:-1 tvg-name="WDR HD (Aachen) DE" group-title="DE TV Öffentlich-rechtlich",WDR HD (Aachen) DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15173/index.m3u8
+#EXTINF:-1 tvg-name="HR FHD DE" group-title="DE TV Öffentlich-rechtlich",HR FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15180/index.m3u8
+#EXTINF:-1 tvg-name="NDR HD DE" group-title="DE TV Öffentlich-rechtlich",NDR HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15181/index.m3u8
+#EXTINF:-1 tvg-name="ARD Alpha HD DE" group-title="DE TV Öffentlich-rechtlich",ARD Alpha HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31287/index.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD (S\FCd) DE" group-title="DE TV Öffentlich-rechtlich",BR Fernsehen HD (S\FCd) DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31297/index.m3u8
+#EXTINF:-1 tvg-name="Das Erste DE" group-title="DE TV Öffentlich-rechtlich",Das Erste DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31306/index.m3u8
+#EXTINF:-1 tvg-name="HR HD DE" group-title="DE TV Öffentlich-rechtlich",HR HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31324/index.m3u8
+#EXTINF:-1 tvg-name="MDR Fernsehen HD (Sachsen) DE" group-title="DE TV Öffentlich-rechtlich",MDR Fernsehen HD (Sachsen) DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31340/index.m3u8
+#EXTINF:-1 tvg-name="Phoenix HD DE" group-title="DE TV Öffentlich-rechtlich",Phoenix HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31357/index.m3u8
+#EXTINF:-1 tvg-name="rbb Fernsehen HD (Berlin) DE" group-title="DE TV Öffentlich-rechtlich",rbb Fernsehen HD (Berlin) DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31364/index.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD DE" group-title="DE TV Öffentlich-rechtlich",SR Fernsehen HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31414/index.m3u8
+#EXTINF:-1 tvg-name="SWR Fernsehen BW HD DE" group-title="DE TV Öffentlich-rechtlich",SWR Fernsehen BW HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31419/index.m3u8
+#EXTINF:-1 tvg-name="SWR Fernsehen RP HD DE" group-title="DE TV Öffentlich-rechtlich",SWR Fernsehen RP HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31420/index.m3u8
+#EXTINF:-1 tvg-name="WDR HD (K\F6ln) DE" group-title="DE TV Öffentlich-rechtlich",WDR HD (K\F6ln) DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31436/index.m3u8
+#EXTINF:-1 tvg-name="ZDF DE" group-title="DE TV Öffentlich-rechtlich",ZDF DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31441/index.m3u8
+#EXTINF:-1 tvg-name="ZDF HD DE" group-title="DE TV Öffentlich-rechtlich",ZDF HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6059/index.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD DE" group-title="DE TV Öffentlich-rechtlich",Das Erste HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15172/index.m3u8
+#EXTINF:-1 tvg-name="WDR HD (Aachen) DE" group-title="DE TV Öffentlich-rechtlich",WDR HD (Aachen) DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15173/index.m3u8
+#EXTINF:-1 tvg-name="HR FHD DE" group-title="DE TV Öffentlich-rechtlich",HR FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15180/index.m3u8
+#EXTINF:-1 tvg-name="NDR HD DE" group-title="DE TV Öffentlich-rechtlich",NDR HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15181/index.m3u8
+#EXTINF:-1 tvg-name="ARD Alpha HD DE" group-title="DE TV Öffentlich-rechtlich",ARD Alpha HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31287/index.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD (S\FCd) DE" group-title="DE TV Öffentlich-rechtlich",BR Fernsehen HD (S\FCd) DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31297/index.m3u8
+#EXTINF:-1 tvg-name="Das Erste DE" group-title="DE TV Öffentlich-rechtlich",Das Erste DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31306/index.m3u8
+#EXTINF:-1 tvg-name="HR HD DE" group-title="DE TV Öffentlich-rechtlich",HR HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31324/index.m3u8
+#EXTINF:-1 tvg-name="MDR Fernsehen HD (Sachsen) DE" group-title="DE TV Öffentlich-rechtlich",MDR Fernsehen HD (Sachsen) DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31340/index.m3u8
+#EXTINF:-1 tvg-name="Phoenix HD DE" group-title="DE TV Öffentlich-rechtlich",Phoenix HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31357/index.m3u8
+#EXTINF:-1 tvg-name="rbb Fernsehen HD (Berlin) DE" group-title="DE TV Öffentlich-rechtlich",rbb Fernsehen HD (Berlin) DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31364/index.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD DE" group-title="DE TV Öffentlich-rechtlich",SR Fernsehen HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31414/index.m3u8
+#EXTINF:-1 tvg-name="SWR Fernsehen BW HD DE" group-title="DE TV Öffentlich-rechtlich",SWR Fernsehen BW HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31419/index.m3u8
+#EXTINF:-1 tvg-name="SWR Fernsehen RP HD DE" group-title="DE TV Öffentlich-rechtlich",SWR Fernsehen RP HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31420/index.m3u8
+#EXTINF:-1 tvg-name="WDR HD (K\F6ln) DE" group-title="DE TV Öffentlich-rechtlich",WDR HD (K\F6ln) DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31436/index.m3u8
+#EXTINF:-1 tvg-name="ZDF DE" group-title="DE TV Öffentlich-rechtlich",ZDF DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31441/index.m3u8
+#EXTINF:-1 tvg-name="SYFY HD DE" group-title="DE TV Privat",SYFY HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6092/index.m3u8
+#EXTINF:-1 tvg-name="VOX HD DE" group-title="DE TV Privat",VOX HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6061/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 HD DE" group-title="DE TV Privat",Sat.1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6060/index.m3u8
+#EXTINF:-1 tvg-name="Nitro FHD DE" group-title="DE TV Privat",Nitro FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6064/index.m3u8
+#EXTINF:-1 tvg-name="RTL HD DE" group-title="DE TV Privat",RTL HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6062/index.m3u8
+#EXTINF:-1 tvg-name="RTL Zwei HD DE" group-title="DE TV Privat",RTL Zwei HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6065/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben HD DE" group-title="DE TV Privat",ProSieben HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6057/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx FHD DE" group-title="DE TV Privat",ProSieben Maxx FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6058/index.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins HD DE" group-title="DE TV Privat",Kabel Eins HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6067/index.m3u8
+#EXTINF:-1 tvg-name="SIXX HD DE" group-title="DE TV Privat",SIXX HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15170/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx HD DE" group-title="DE TV Privat",ProSieben Maxx HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15174/index.m3u8
+#EXTINF:-1 tvg-name="RTL Crime HD DE" group-title="DE TV Privat",RTL Crime HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15178/index.m3u8
+#EXTINF:-1 tvg-name="DMAX HD DE" group-title="DE TV Privat",DMAX HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31310/index.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins Classics HD DE" group-title="DE TV Privat",Kabel Eins Classics HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31330/index.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins Doku HD DE" group-title="DE TV Privat",Kabel Eins Doku HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31331/index.m3u8
+#EXTINF:-1 tvg-name="Nitro HD DE" group-title="DE TV Privat",Nitro HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31352/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben FHD DE" group-title="DE TV Privat",ProSieben FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31359/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Fun HD DE" group-title="DE TV Privat",ProSieben Fun HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31360/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx DE" group-title="DE TV Privat",ProSieben Maxx DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31361/index.m3u8
+#EXTINF:-1 tvg-name="RTL FHD DE" group-title="DE TV Privat",RTL FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31368/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 Gold HD DE" group-title="DE TV Privat",Sat.1 Gold HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31378/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 DE" group-title="DE TV Privat",Sat.1 DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31380/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 Emotions HD DE" group-title="DE TV Privat",Sat.1 Emotions HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31381/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 Gold DE" group-title="DE TV Privat",Sat.1 Gold DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31382/index.m3u8
+#EXTINF:-1 tvg-name="SIXX FHD DE" group-title="DE TV Privat",SIXX FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31388/index.m3u8
+#EXTINF:-1 tvg-name="VOX DE" group-title="DE TV Privat",VOX DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31431/index.m3u8
+#EXTINF:-1 tvg-name="SYFY HD DE" group-title="DE TV Privat",SYFY HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6092/index.m3u8
+#EXTINF:-1 tvg-name="VOX HD DE" group-title="DE TV Privat",VOX HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6061/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 HD DE" group-title="DE TV Privat",Sat.1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6060/index.m3u8
+#EXTINF:-1 tvg-name="Nitro FHD DE" group-title="DE TV Privat",Nitro FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6064/index.m3u8
+#EXTINF:-1 tvg-name="RTL HD DE" group-title="DE TV Privat",RTL HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6062/index.m3u8
+#EXTINF:-1 tvg-name="RTL Zwei HD DE" group-title="DE TV Privat",RTL Zwei HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6065/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben HD DE" group-title="DE TV Privat",ProSieben HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6057/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx FHD DE" group-title="DE TV Privat",ProSieben Maxx FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6058/index.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins HD DE" group-title="DE TV Privat",Kabel Eins HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6067/index.m3u8
+#EXTINF:-1 tvg-name="SIXX HD DE" group-title="DE TV Privat",SIXX HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15170/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx HD DE" group-title="DE TV Privat",ProSieben Maxx HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15174/index.m3u8
+#EXTINF:-1 tvg-name="RTL Crime HD DE" group-title="DE TV Privat",RTL Crime HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15178/index.m3u8
+#EXTINF:-1 tvg-name="DMAX HD DE" group-title="DE TV Privat",DMAX HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31310/index.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins Classics HD DE" group-title="DE TV Privat",Kabel Eins Classics HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31330/index.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins Doku HD DE" group-title="DE TV Privat",Kabel Eins Doku HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31331/index.m3u8
+#EXTINF:-1 tvg-name="Nitro HD DE" group-title="DE TV Privat",Nitro HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31352/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben FHD DE" group-title="DE TV Privat",ProSieben FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31359/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Fun HD DE" group-title="DE TV Privat",ProSieben Fun HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31360/index.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx DE" group-title="DE TV Privat",ProSieben Maxx DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31361/index.m3u8
+#EXTINF:-1 tvg-name="RTL FHD DE" group-title="DE TV Privat",RTL FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31368/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 Gold HD DE" group-title="DE TV Privat",Sat.1 Gold HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31378/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 DE" group-title="DE TV Privat",Sat.1 DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31380/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 Emotions HD DE" group-title="DE TV Privat",Sat.1 Emotions HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31381/index.m3u8
+#EXTINF:-1 tvg-name="Sat.1 Gold DE" group-title="DE TV Privat",Sat.1 Gold DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31382/index.m3u8
+#EXTINF:-1 tvg-name="SIXX FHD DE" group-title="DE TV Privat",SIXX FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31388/index.m3u8
+#EXTINF:-1 tvg-name="VOX DE" group-title="DE TV Privat",VOX DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31431/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central HD DE" group-title="DE Unterhaltung",Comedy Central HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6081/index.m3u8
+#EXTINF:-1 tvg-name="RTL Passion HD DE" group-title="DE Unterhaltung",RTL Passion HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7230/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central FHD DE" group-title="DE Unterhaltung",Comedy Central FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31302/index.m3u8
+#EXTINF:-1 tvg-name="RTL Passion DE" group-title="DE Unterhaltung",RTL Passion DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31369/index.m3u8
+#EXTINF:-1 tvg-name="RTL Passion FHD DE" group-title="DE Unterhaltung",RTL Passion FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31370/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Comedy HD DE" group-title="DE Unterhaltung",Warner TV Comedy HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31433/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central HD DE" group-title="DE Unterhaltung",Comedy Central HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6081/index.m3u8
+#EXTINF:-1 tvg-name="RTL Passion HD DE" group-title="DE Unterhaltung",RTL Passion HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7230/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central FHD DE" group-title="DE Unterhaltung",Comedy Central FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31302/index.m3u8
+#EXTINF:-1 tvg-name="RTL Passion DE" group-title="DE Unterhaltung",RTL Passion DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31369/index.m3u8
+#EXTINF:-1 tvg-name="RTL Passion FHD DE" group-title="DE Unterhaltung",RTL Passion FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31370/index.m3u8
+#EXTINF:-1 tvg-name="Warner TV Comedy HD DE" group-title="DE Unterhaltung",Warner TV Comedy HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31433/index.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV HD DE" group-title="DE",Red Bull TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/16039/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Dance HD DE" group-title="DE",Deluxe Dance HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31560/index.m3u8
+#EXTINF:-1 tvg-name="OstWest DE" group-title="DE",OstWest DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/14021/index.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic HD DE" group-title="DE",Sky Atlantic HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2488/index.m3u8
+#EXTINF:-1 tvg-name="Sky Krimi HD DE" group-title="DE",Sky Krimi HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2491/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD DE" group-title="DE",ZDFinfo HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/17042/index.m3u8
+#EXTINF:-1 tvg-name="Universal TV FHD DE" group-title="DE",Universal TV FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6094/index.m3u8
+#EXTINF:-1 tvg-name="Toggo DE" group-title="DE",Toggo DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/6063/index.m3u8
+#EXTINF:-1 tvg-name="Romance TV DE" group-title="DE",Romance TV DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7231/index.m3u8
+#EXTINF:-1 tvg-name="N-TV FHD DE" group-title="DE",N-TV FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/7259/index.m3u8
+#EXTINF:-1 tvg-name="KiKA FHD DE" group-title="DE",KiKA FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15175/index.m3u8
+#EXTINF:-1 tvg-name="ATV DE" group-title="DE",ATV DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15176/index.m3u8
+#EXTINF:-1 tvg-name="ORF 1 HD DE" group-title="DE",ORF 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15177/index.m3u8
+#EXTINF:-1 tvg-name="Sky One HD DE" group-title="DE",Sky One HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19000/index.m3u8
+#EXTINF:-1 tvg-name="Sky Replay HD DE" group-title="DE",Sky Replay HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19006/index.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic FHD DE" group-title="DE",Sky Atlantic FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19009/index.m3u8
+#EXTINF:-1 tvg-name="Sky Krimi FHD DE" group-title="DE",Sky Krimi FHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19019/index.m3u8
+#EXTINF:-1 tvg-name="Sky Documentaries HD DE" group-title="DE",Sky Documentaries HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19021/index.m3u8
+#EXTINF:-1 tvg-name="#dabeiTV HD DE" group-title="DE",#dabeiTV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31279/index.m3u8
+#EXTINF:-1 tvg-name="1-2-3.tv HD DE" group-title="DE",1-2-3.tv HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31280/index.m3u8
+#EXTINF:-1 tvg-name="3sat HD DE" group-title="DE",3sat HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31282/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English HD DE" group-title="DE",Al Jazeera English HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31283/index.m3u8
+#EXTINF:-1 tvg-name="Anixe+ HD DE" group-title="DE",Anixe+ HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31286/index.m3u8
+#EXTINF:-1 tvg-name="Ballermann TV HD DE" group-title="DE",Ballermann TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31291/index.m3u8
+#EXTINF:-1 tvg-name="Bibel TV HD DE" group-title="DE",Bibel TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31293/index.m3u8
+#EXTINF:-1 tvg-name="BonGusto HD DE" group-title="DE",BonGusto HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31296/index.m3u8
+#EXTINF:-1 tvg-name="Channel 21 HD DE" group-title="DE",Channel 21 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31300/index.m3u8
+#EXTINF:-1 tvg-name="Curiosity Channel HD DE" group-title="DE",Curiosity Channel HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31305/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV HD DE" group-title="DE",Fashion TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31316/index.m3u8
+#EXTINF:-1 tvg-name="France 24 English HD DE" group-title="DE",France 24 English HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31318/index.m3u8
+#EXTINF:-1 tvg-name="France 24 Francais HD DE" group-title="DE",France 24 Francais HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31319/index.m3u8
+#EXTINF:-1 tvg-name="GEO Television HD DE" group-title="DE",GEO Television HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31321/index.m3u8
+#EXTINF:-1 tvg-name="HGTV HD DE" group-title="DE",HGTV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31323/index.m3u8
+#EXTINF:-1 tvg-name="HSE HD DE" group-title="DE",HSE HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31325/index.m3u8
+#EXTINF:-1 tvg-name="Inplus HD DE" group-title="DE",Inplus HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31326/index.m3u8
+#EXTINF:-1 tvg-name="Jukebox HD DE" group-title="DE",Jukebox HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31327/index.m3u8
+#EXTINF:-1 tvg-name="K-TV DE" group-title="DE",K-TV DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31328/index.m3u8
+#EXTINF:-1 tvg-name="KiKA HD DE" group-title="DE",KiKA HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31332/index.m3u8
+#EXTINF:-1 tvg-name="Marco Polo TV HD DE" group-title="DE",Marco Polo TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31339/index.m3u8
+#EXTINF:-1 tvg-name="N-TV HD DE" group-title="DE",N-TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31345/index.m3u8
+#EXTINF:-1 tvg-name="KiKA DE" group-title="DE",KiKA DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31350/index.m3u8
+#EXTINF:-1 tvg-name="One HD DE" group-title="DE",One HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31353/index.m3u8
+#EXTINF:-1 tvg-name="OUTtv HD DE" group-title="DE",OUTtv HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31355/index.m3u8
+#EXTINF:-1 tvg-name="QVC HD DE" group-title="DE",QVC HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31362/index.m3u8
+#EXTINF:-1 tvg-name="RiC HD DE" group-title="DE",RiC HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31366/index.m3u8
+#EXTINF:-1 tvg-name="Romance TV HD DE" group-title="DE",Romance TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31367/index.m3u8
+#EXTINF:-1 tvg-name="Schlager Deluxe HD DE" group-title="DE",Schlager Deluxe HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31379/index.m3u8
+#EXTINF:-1 tvg-name="Schlager Deluxe DE" group-title="DE",Schlager Deluxe DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31383/index.m3u8
+#EXTINF:-1 tvg-name="Schlagerparadies.TV HD DE" group-title="DE",Schlagerparadies.TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31384/index.m3u8
+#EXTINF:-1 tvg-name="Shop LC HD DE" group-title="DE",Shop LC HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31387/index.m3u8
+#EXTINF:-1 tvg-name="Sonnenklar.TV HD DE" group-title="DE",Sonnenklar.TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31389/index.m3u8
+#EXTINF:-1 tvg-name="MyTeam TV 18 HD DE" group-title="DE",MyTeam TV 18 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31402/index.m3u8
+#EXTINF:-1 tvg-name="Stingray DJAZZ HD DE" group-title="DE",Stingray DJAZZ HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31416/index.m3u8
+#EXTINF:-1 tvg-name="Toggo Plus HD DE" group-title="DE",Toggo Plus HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31426/index.m3u8
+#EXTINF:-1 tvg-name="TravelXP HD DE" group-title="DE",TravelXP HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31427/index.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde Europe HD DE" group-title="DE",TV5 Monde Europe HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31428/index.m3u8
+#EXTINF:-1 tvg-name="Universal TV HD DE" group-title="DE",Universal TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31429/index.m3u8
+#EXTINF:-1 tvg-name="VOXup DE" group-title="DE",VOXup DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31432/index.m3u8
+#EXTINF:-1 tvg-name="WedoTV Movies HD DE" group-title="DE",WedoTV Movies HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31437/index.m3u8
+#EXTINF:-1 tvg-name="Wetter.com DE" group-title="DE",Wetter.com DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31440/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo DE" group-title="DE",ZDFinfo DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31442/index.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD DE" group-title="DE",ZDFneo HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31443/index.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV HD DE" group-title="DE",Red Bull TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/16039/index.m3u8
+#EXTINF:-1 tvg-name="Deluxe Dance HD DE" group-title="DE",Deluxe Dance HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31560/index.m3u8
+#EXTINF:-1 tvg-name="OstWest DE" group-title="DE",OstWest DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/14021/index.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic HD DE" group-title="DE",Sky Atlantic HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2488/index.m3u8
+#EXTINF:-1 tvg-name="Sky Krimi HD DE" group-title="DE",Sky Krimi HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2491/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD DE" group-title="DE",ZDFinfo HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/17042/index.m3u8
+#EXTINF:-1 tvg-name="Universal TV FHD DE" group-title="DE",Universal TV FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6094/index.m3u8
+#EXTINF:-1 tvg-name="Toggo DE" group-title="DE",Toggo DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6063/index.m3u8
+#EXTINF:-1 tvg-name="Romance TV DE" group-title="DE",Romance TV DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7231/index.m3u8
+#EXTINF:-1 tvg-name="N-TV FHD DE" group-title="DE",N-TV FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7259/index.m3u8
+#EXTINF:-1 tvg-name="KiKA FHD DE" group-title="DE",KiKA FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15175/index.m3u8
+#EXTINF:-1 tvg-name="ATV DE" group-title="DE",ATV DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15176/index.m3u8
+#EXTINF:-1 tvg-name="ORF 1 HD DE" group-title="DE",ORF 1 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/15177/index.m3u8
+#EXTINF:-1 tvg-name="Sky One HD DE" group-title="DE",Sky One HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19000/index.m3u8
+#EXTINF:-1 tvg-name="Sky Replay HD DE" group-title="DE",Sky Replay HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19006/index.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic FHD DE" group-title="DE",Sky Atlantic FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19009/index.m3u8
+#EXTINF:-1 tvg-name="Sky Krimi FHD DE" group-title="DE",Sky Krimi FHD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19019/index.m3u8
+#EXTINF:-1 tvg-name="Sky Documentaries HD DE" group-title="DE",Sky Documentaries HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/19021/index.m3u8
+#EXTINF:-1 tvg-name="#dabeiTV HD DE" group-title="DE",#dabeiTV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31279/index.m3u8
+#EXTINF:-1 tvg-name="1-2-3.tv HD DE" group-title="DE",1-2-3.tv HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31280/index.m3u8
+#EXTINF:-1 tvg-name="3sat HD DE" group-title="DE",3sat HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31282/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English HD DE" group-title="DE",Al Jazeera English HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31283/index.m3u8
+#EXTINF:-1 tvg-name="Anixe+ HD DE" group-title="DE",Anixe+ HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31286/index.m3u8
+#EXTINF:-1 tvg-name="Ballermann TV HD DE" group-title="DE",Ballermann TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31291/index.m3u8
+#EXTINF:-1 tvg-name="Bibel TV HD DE" group-title="DE",Bibel TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31293/index.m3u8
+#EXTINF:-1 tvg-name="BonGusto HD DE" group-title="DE",BonGusto HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31296/index.m3u8
+#EXTINF:-1 tvg-name="Channel 21 HD DE" group-title="DE",Channel 21 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31300/index.m3u8
+#EXTINF:-1 tvg-name="Curiosity Channel HD DE" group-title="DE",Curiosity Channel HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31305/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV HD DE" group-title="DE",Fashion TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31316/index.m3u8
+#EXTINF:-1 tvg-name="France 24 English HD DE" group-title="DE",France 24 English HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31318/index.m3u8
+#EXTINF:-1 tvg-name="France 24 Francais HD DE" group-title="DE",France 24 Francais HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31319/index.m3u8
+#EXTINF:-1 tvg-name="GEO Television HD DE" group-title="DE",GEO Television HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31321/index.m3u8
+#EXTINF:-1 tvg-name="HGTV HD DE" group-title="DE",HGTV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31323/index.m3u8
+#EXTINF:-1 tvg-name="HSE HD DE" group-title="DE",HSE HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31325/index.m3u8
+#EXTINF:-1 tvg-name="Inplus HD DE" group-title="DE",Inplus HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31326/index.m3u8
+#EXTINF:-1 tvg-name="Jukebox HD DE" group-title="DE",Jukebox HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31327/index.m3u8
+#EXTINF:-1 tvg-name="K-TV DE" group-title="DE",K-TV DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31328/index.m3u8
+#EXTINF:-1 tvg-name="KiKA HD DE" group-title="DE",KiKA HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31332/index.m3u8
+#EXTINF:-1 tvg-name="Marco Polo TV HD DE" group-title="DE",Marco Polo TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31339/index.m3u8
+#EXTINF:-1 tvg-name="N-TV HD DE" group-title="DE",N-TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31345/index.m3u8
+#EXTINF:-1 tvg-name="KiKA DE" group-title="DE",KiKA DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31350/index.m3u8
+#EXTINF:-1 tvg-name="One HD DE" group-title="DE",One HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31353/index.m3u8
+#EXTINF:-1 tvg-name="OUTtv HD DE" group-title="DE",OUTtv HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31355/index.m3u8
+#EXTINF:-1 tvg-name="QVC HD DE" group-title="DE",QVC HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31362/index.m3u8
+#EXTINF:-1 tvg-name="RiC HD DE" group-title="DE",RiC HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31366/index.m3u8
+#EXTINF:-1 tvg-name="Romance TV HD DE" group-title="DE",Romance TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31367/index.m3u8
+#EXTINF:-1 tvg-name="Schlager Deluxe HD DE" group-title="DE",Schlager Deluxe HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31379/index.m3u8
+#EXTINF:-1 tvg-name="Schlager Deluxe DE" group-title="DE",Schlager Deluxe DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31383/index.m3u8
+#EXTINF:-1 tvg-name="Schlagerparadies.TV HD DE" group-title="DE",Schlagerparadies.TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31384/index.m3u8
+#EXTINF:-1 tvg-name="Shop LC HD DE" group-title="DE",Shop LC HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31387/index.m3u8
+#EXTINF:-1 tvg-name="Sonnenklar.TV HD DE" group-title="DE",Sonnenklar.TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31389/index.m3u8
+#EXTINF:-1 tvg-name="MyTeam TV 18 HD DE" group-title="DE",MyTeam TV 18 HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31402/index.m3u8
+#EXTINF:-1 tvg-name="Stingray DJAZZ HD DE" group-title="DE",Stingray DJAZZ HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31416/index.m3u8
+#EXTINF:-1 tvg-name="Toggo Plus HD DE" group-title="DE",Toggo Plus HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31426/index.m3u8
+#EXTINF:-1 tvg-name="TravelXP HD DE" group-title="DE",TravelXP HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31427/index.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde Europe HD DE" group-title="DE",TV5 Monde Europe HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31428/index.m3u8
+#EXTINF:-1 tvg-name="Universal TV HD DE" group-title="DE",Universal TV HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31429/index.m3u8
+#EXTINF:-1 tvg-name="VOXup DE" group-title="DE",VOXup DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31432/index.m3u8
+#EXTINF:-1 tvg-name="WedoTV Movies HD DE" group-title="DE",WedoTV Movies HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31437/index.m3u8
+#EXTINF:-1 tvg-name="Wetter.com DE" group-title="DE",Wetter.com DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31440/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo DE" group-title="DE",ZDFinfo DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31442/index.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD DE" group-title="DE",ZDFneo HD DE
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31443/index.m3u8
