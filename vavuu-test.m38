@@ -1,0 +1,102 @@
+#EXTM3U8 url-tvg="https://vav00.de/sources/epg/epg_de.xml,http://jinxx.mooo.com/live/guide.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",DER KLEINE PRINZ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/18254938455ea9d58931e4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",DRAGON BALL 7/24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/701382547a9649a3c2758
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",HT SPONGEBOB
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/2869897012f73109b45c42
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",PJ MASKS 7/24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/39775874011c2882519b56
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",THE BOSS BABY 7/24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/23162310375786f668543c
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",TOM UND JERRY SHOW 7/24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/12583560881a8ec18b0c81
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",WIR KINDER AUS DEM MÖWENWEG
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/1353734992860f3c677fc5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",1.2.3 TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/51258455e96a10e83da6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",123 TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/2037441576acf3e02d0af2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",13TH STREET
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/3160812963e2fed09faa6c
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",A&E
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/293885293633122a31ae84
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",ALEX BERLIN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/17832410505e60423f0a3a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",ALLGAU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/21870278770b132123ee34
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",ALLGAU TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/227468629202c6d6827a4a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",AMAZON PRIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/3648815838fbf386e1a708
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",AMAZON PRIME SPORT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/154964344597bff120474a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Germany",AMAZON PRIME VIDEO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMTJhZTYtYWRjYi0zNGJkLTkyN2EtYmE1ZDlhNjZjZmY1
+#EXTVLCOPT:http-user-agent=MediaHubMX/2
+https://kool.to/kool-iptv/play/356653381565af4f699b56
