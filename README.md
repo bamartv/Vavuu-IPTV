@@ -7,4 +7,4 @@ Created VAV00-IPTV-Playlists + logo + banner file for OTT-Navigator
 ---
 # Vavuu Downloader
 
-[![License: MIT](https://img.shields.io)](https://opensource.org)
+[Vavuu Downloader](https://vavuu.2kool4u.net)
