@@ -5,4 +5,6 @@ Created VAV00-IPTV-Playlists + logo + banner file for OTT-Navigator
 ---
 ❗VPN is absolutely necessary❗
 ---
-[Vavuu Downloader,] (https://vavuu.2kool4u.net)
+# Vavuu Downloader
+
+[![License: MIT](https://img.shields.io)](https://opensource.org)
