@@ -1,0 +1,3329 @@
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN 24", TVN 24
+https://www.vavoo.to/play/3073846853/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 5", CANALE 5
+https://www.vavoo.to/play/1101559666/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT", POLSAT
+https://www.vavoo.to/play/899596284/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN HD", TVN HD
+https://www.vavoo.to/play/1619171179/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 1", RAI 1
+https://www.vavoo.to/play/875922788/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ITALIA 1", ITALIA 1
+https://www.vavoo.to/play/663536394/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP INFO HD", TVP INFO HD
+https://www.vavoo.to/play/1609624142/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SPORT 2 HD", CANAL SPORT 2 HD
+https://www.vavoo.to/play/1312693742/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN 24 HD", TVN 24 HD
+https://www.vavoo.to/play/3117907024/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT 24", SKY SPORT 24
+https://www.vavoo.to/play/2775802255/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN", TVN
+https://www.vavoo.to/play/110054216/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA ACTION", SKY CINEMA ACTION
+https://www.vavoo.to/play/3812796171/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN 7 HD", TVN 7 HD
+https://www.vavoo.to/play/1994391380/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT UNO", SKY SPORT UNO
+https://www.vavoo.to/play/3192996672/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA ACTION", SKY CINEMA ACTION
+https://www.vavoo.to/play/1144128726/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORTS F1", SKY SPORTS F1
+https://www.vavoo.to/play/2289038972/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT TENNIS", SKY SPORT TENNIS
+https://www.vavoo.to/play/78546677/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 2", RAI 2
+https://www.vavoo.to/play/1939210164/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 1", RAI 1
+https://www.vavoo.to/play/1225653759/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN TURBO", TVN TURBO
+https://www.vavoo.to/play/2939182317/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MEDIASET EXTRA", MEDIASET EXTRA
+https://www.vavoo.to/play/477466531/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/4275582277/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN 24 BIS", TVN 24 BIS
+https://www.vavoo.to/play/1095597900/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NOVELAS", NOVELAS
+https://www.vavoo.to/play/1939536799/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT NEWS HD", POLSAT NEWS HD
+https://www.vavoo.to/play/3360952949/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP HD", TVP HD
+https://www.vavoo.to/play/162772082/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV4 HD", TV4 HD
+https://www.vavoo.to/play/1561467443/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT TENNIS", SKY SPORT TENNIS
+https://www.vavoo.to/play/2100771782/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT F1", SKY SPORT F1
+https://www.vavoo.to/play/4246774056/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 5", CANALE 5
+https://www.vavoo.to/play/1534161807/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT UNO", SKY SPORT UNO
+https://www.vavoo.to/play/210669162/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA COLLECTION", SKY CINEMA COLLECTION
+https://www.vavoo.to/play/3525837057/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA DRAMA", SKY CINEMA DRAMA
+https://www.vavoo.to/play/1235530177/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY TG 24", SKY TG 24
+https://www.vavoo.to/play/3376031355/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 2 HD", TVP 2 HD
+https://www.vavoo.to/play/123224171/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT MOTO GP", SKY SPORT MOTO GP
+https://www.vavoo.to/play/3036316886/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BOOMERANG", BOOMERANG
+https://www.vavoo.to/play/2705627802/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA ROMANCE", SKY CINEMA ROMANCE
+https://www.vavoo.to/play/1281264885/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA SUSPENSE", SKY CINEMA SUSPENSE
+https://www.vavoo.to/play/3060043751/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA FAMILY", SKY CINEMA FAMILY
+https://www.vavoo.to/play/3216516117/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA ROMANCE", SKY CINEMA ROMANCE
+https://www.vavoo.to/play/2890008905/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="HISTORY", HISTORY
+https://www.vavoo.to/play/317837654/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="HISTORY", HISTORY
+https://www.vavoo.to/play/2134724757/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI NEWS 24", RAI NEWS 24
+https://www.vavoo.to/play/2272923972/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 4", RAI 4
+https://www.vavoo.to/play/2179822223/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETE 4", RETE 4
+https://www.vavoo.to/play/2235732004/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 2", RAI 2
+https://www.vavoo.to/play/246253359/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA UNO", SKY CINEMA UNO
+https://www.vavoo.to/play/1759625738/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FRANCE 24", FRANCE 24
+https://www.vavoo.to/play/2179686828/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT HD", POLSAT HD
+https://www.vavoo.to/play/3020429658/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 3", RAI 3
+https://www.vavoo.to/play/1324733956/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV REPUBLIKA", TV REPUBLIKA
+https://www.vavoo.to/play/3581908167/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP INFO", TVP INFO
+https://www.vavoo.to/play/3672476872/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CRIME", CRIME
+https://www.vavoo.to/play/1968339149/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CINE 34 MEDIASET", CINE 34 MEDIASET
+https://www.vavoo.to/play/1768670187/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DMAX", DMAX
+https://www.vavoo.to/play/3008151733/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KINO POLSKA", KINO POLSKA
+https://www.vavoo.to/play/3145212115/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT EXTRA", POLSAT SPORT EXTRA
+https://www.vavoo.to/play/2759134262/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV PULS HD", TV PULS HD
+https://www.vavoo.to/play/1775095558/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT EXTRA HD", POLSAT SPORT EXTRA HD
+https://www.vavoo.to/play/1624535514/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SPORT 4 HD", CANAL SPORT 4 HD
+https://www.vavoo.to/play/2287015017/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NICKELODEON", NICKELODEON
+https://www.vavoo.to/play/3039389215/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/4154420780/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1593221760/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+https://www.vavoo.to/play/1955739367/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="4FUN DANCE", 4FUN DANCE
+https://www.vavoo.to/play/1084078950/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SPORT HD", CANAL SPORT HD
+https://www.vavoo.to/play/327312955/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/2956924156/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="PULS 2", PULS 2
+https://www.vavoo.to/play/1567907399/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DAZN 1", DAZN 1
+https://www.vavoo.to/play/1376440573/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT CALCIO", SKY SPORT CALCIO
+https://www.vavoo.to/play/1665920101/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT ARENA", SKY SPORT ARENA
+https://www.vavoo.to/play/3007400791/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT MOTOGP", SKY SPORT MOTOGP
+https://www.vavoo.to/play/2090703806/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT NBA", SKY SPORT NBA
+https://www.vavoo.to/play/326825326/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT CALCIO", SKY SPORT CALCIO
+https://www.vavoo.to/play/449990998/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY TG 24", SKY TG 24
+https://www.vavoo.to/play/318057128/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY INVESTIGATION", SKY INVESTIGATION
+https://www.vavoo.to/play/1968640789/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CRIME", SKY CRIME
+https://www.vavoo.to/play/354961873/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY DOCUMENTARIES", SKY DOCUMENTARIES
+https://www.vavoo.to/play/464281981/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/3293241225/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT NBA", SKY SPORT NBA
+https://www.vavoo.to/play/2711959620/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT 24", SKY SPORT 24
+https://www.vavoo.to/play/3445562519/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://www.vavoo.to/play/1289777017/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA COMEDY", SKY CINEMA COMEDY
+https://www.vavoo.to/play/500203271/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT FOOTBALL", SKY SPORT FOOTBALL
+https://www.vavoo.to/play/1989309231/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT GOLF", SKY SPORT GOLF
+https://www.vavoo.to/play/729945219/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY ARTE", SKY ARTE
+https://www.vavoo.to/play/1902695925/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA DUE", SKY CINEMA DUE
+https://www.vavoo.to/play/2330574729/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SUPER TENNIS", SKY SUPER TENNIS
+https://www.vavoo.to/play/558282118/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+https://www.vavoo.to/play/433893159/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT MAX", SKY SPORT MAX
+https://www.vavoo.to/play/2066326916/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA DUE", SKY CINEMA DUE
+https://www.vavoo.to/play/1228534500/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA FAMILY", SKY CINEMA FAMILY
+https://www.vavoo.to/play/415795144/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 1 HD", TVP 1 HD
+https://www.vavoo.to/play/2312587144/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY ATLANTIC", SKY ATLANTIC
+https://www.vavoo.to/play/1482866609/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP SERIALE", TVP SERIALE
+https://www.vavoo.to/play/1463467003/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA ACTION", SKY CINEMA ACTION
+https://www.vavoo.to/play/2242741766/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA COLLECTION", SKY CINEMA COLLECTION
+https://www.vavoo.to/play/1759653413/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://www.vavoo.to/play/1744435623/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY UNO", SKY UNO
+https://www.vavoo.to/play/322024849/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SERIE", SKY SERIE
+https://www.vavoo.to/play/836680112/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT 3", POLSAT SPORT 3
+https://www.vavoo.to/play/126072654/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TG COM 24", TG COM 24
+https://www.vavoo.to/play/1785098768/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 3", RAI 3
+https://www.vavoo.to/play/869117599/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA COMEDY", SKY CINEMA COMEDY
+https://www.vavoo.to/play/3131104474/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETE 4", RETE 4
+https://www.vavoo.to/play/4198218214/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA SUSPENSE", SKY CINEMA SUSPENSE
+https://www.vavoo.to/play/1820997555/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY HISTORIA", DISCOVERY HISTORIA
+https://www.vavoo.to/play/2579453397/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY ATLANTIC", SKY ATLANTIC
+https://www.vavoo.to/play/1421393119/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 4", RAI 4
+https://www.vavoo.to/play/4241820180/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+https://www.vavoo.to/play/3658277450/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="GAMBERO ROSSO", GAMBERO ROSSO
+https://www.vavoo.to/play/2481284739/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MTV", MTV
+https://www.vavoo.to/play/3212860676/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY ARTE", SKY ARTE
+https://www.vavoo.to/play/1806815496/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI SPORT", RAI SPORT
+https://www.vavoo.to/play/2924135092/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI SPORT", RAI SPORT
+https://www.vavoo.to/play/551730224/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI SPORT", RAI SPORT
+https://www.vavoo.to/play/843891896/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RSI LA 2", RSI LA 2
+https://www.vavoo.to/play/3590183307/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 4K", RAI 4K
+https://www.vavoo.to/play/2049087681/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 5", RAI 5
+https://www.vavoo.to/play/3249873828/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT 2 HD", POLSAT 2 HD
+https://www.vavoo.to/play/4066544687/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 5", RAI 5
+https://www.vavoo.to/play/3163380543/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RSI LA 1", RSI LA 1
+https://www.vavoo.to/play/2455610203/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RSI LA 1", RSI LA 1
+https://www.vavoo.to/play/2290395046/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PESCA E CACCIA", PESCA E CACCIA
+https://www.vavoo.to/play/3124512993/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EURONEWS", EURONEWS
+https://www.vavoo.to/play/490955579/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NICK JR", NICK JR
+https://www.vavoo.to/play/380958472/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI ITALIA", RAI ITALIA
+https://www.vavoo.to/play/374675593/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NAT GEO", NAT GEO
+https://www.vavoo.to/play/179844839/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT FILM", POLSAT FILM
+https://www.vavoo.to/play/563274468/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RSI LA 2", RSI LA 2
+https://www.vavoo.to/play/3475299702/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SPORT ITALIA", SPORT ITALIA
+https://www.vavoo.to/play/2881739927/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 2", ELEVEN SPORTS 2
+https://www.vavoo.to/play/3208642342/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/2279950453/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN STYLE", TVN STYLE
+https://www.vavoo.to/play/1967529105/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 9", SKY PRIMAFILA 9
+https://www.vavoo.to/play/1753260677/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 10", SKY PRIMAFILA 10
+https://www.vavoo.to/play/2268489342/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 4", SKY PRIMAFILA 4
+https://www.vavoo.to/play/2416993844/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://www.vavoo.to/play/3229664409/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN TURBO HD", TVN TURBO HD
+https://www.vavoo.to/play/2456969730/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN 7", TVN 7
+https://www.vavoo.to/play/3319341659/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT ROMANS", POLSAT ROMANS
+https://www.vavoo.to/play/777651930/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DEEJAY TV", DEEJAY TV
+https://www.vavoo.to/play/963607327/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TTV HD", TTV HD
+https://www.vavoo.to/play/3777664371/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KINO POLSKA HD", KINO POLSKA HD
+https://www.vavoo.to/play/3073941806/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP ROZRYWKA", TVP ROZRYWKA
+https://www.vavoo.to/play/159853717/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN STYLE HD", TVN STYLE HD
+https://www.vavoo.to/play/2256955616/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT FILM HD", POLSAT FILM HD
+https://www.vavoo.to/play/789572619/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 3 HD", ELEVEN SPORTS 3 HD
+https://www.vavoo.to/play/2044549582/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 2", SKY PRIMAFILA 2
+https://www.vavoo.to/play/877200714/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT HD", POLSAT SPORT HD
+https://www.vavoo.to/play/23614419/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP POLONIA", TVP POLONIA
+https://www.vavoo.to/play/1540833853/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SPORT 2 HD", CANAL SPORT 2 HD
+https://www.vavoo.to/play/2875517467/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HBO", HBO
+https://www.vavoo.to/play/64410831/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVS", TVS
+https://www.vavoo.to/play/2667518075/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="20 MEDIASET", 20 MEDIASET
+https://www.vavoo.to/play/1230338185/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT CAFE", POLSAT CAFE
+https://www.vavoo.to/play/3413559872/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 7", SKY PRIMAFILA 7
+https://www.vavoo.to/play/3618643172/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 1", SKY PRIMAFILA 1
+https://www.vavoo.to/play/1944682394/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="PARAMOUNT CHANNEL", PARAMOUNT CHANNEL
+https://www.vavoo.to/play/3390498693/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/4089386856/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://www.vavoo.to/play/3481346857/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TGCOM 24", TGCOM 24
+https://www.vavoo.to/play/2418148449/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 4", ELEVEN SPORTS 4
+https://www.vavoo.to/play/813632134/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CRIME", CRIME
+https://www.vavoo.to/play/3453122284/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BOING", BOING
+https://www.vavoo.to/play/3022771961/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 6", SKY PRIMAFILA 6
+https://www.vavoo.to/play/3251217290/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ALE KINO HD", ALE KINO HD
+https://www.vavoo.to/play/886061076/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT VIASAT EXPLORE HD", POLSAT VIASAT EXPLORE HD
+https://www.vavoo.to/play/4029165915/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="K2", K2
+https://www.vavoo.to/play/2255724318/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1905836261/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 1", ELEVEN SPORTS 1
+https://www.vavoo.to/play/3945122400/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN HD", AXN HD
+https://www.vavoo.to/play/1774650965/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN FABULA", TVN FABULA
+https://www.vavoo.to/play/2122419427/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1291381077/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1881505779/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HBO2 HD", HBO2 HD
+https://www.vavoo.to/play/512566032/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BBC LIFESTYLE", BBC LIFESTYLE
+https://www.vavoo.to/play/520666681/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL 1 HD", CANAL 1 HD
+https://www.vavoo.to/play/4278133345/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="COMEDY CENTRAL EXTRA", COMEDY CENTRAL EXTRA
+https://www.vavoo.to/play/1707756539/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NOVE", NOVE
+https://www.vavoo.to/play/867216452/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 2", ELEVEN SPORTS 2
+https://www.vavoo.to/play/2894442672/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 2", POLSAT SPORT PREMIUM 2
+https://www.vavoo.to/play/3696826160/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY NATURE", SKY NATURE
+https://www.vavoo.to/play/3810188456/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 13 FHD", CINEMAX POLAND 13 FHD
+https://www.vavoo.to/play/3454373332/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 2 HD", ELEVEN SPORTS 2 HD
+https://www.vavoo.to/play/3044497744/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+https://www.vavoo.to/play/3554841914/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://www.vavoo.to/play/2241163706/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT NEWS 2", POLSAT NEWS 2
+https://www.vavoo.to/play/1129454481/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MTV HITS", MTV HITS
+https://www.vavoo.to/play/3446813098/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT EXTRA", POLSAT SPORT EXTRA
+https://www.vavoo.to/play/4242508776/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DAZN", DAZN
+https://www.vavoo.to/play/2303792166/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DAZN 2", DAZN 2
+https://www.vavoo.to/play/363506221/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1675011562/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 8 FHD", CINEMAX POLAND 8 FHD
+https://www.vavoo.to/play/1188119141/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CACCIA E PESCA", CACCIA E PESCA
+https://www.vavoo.to/play/3639213638/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISNEY CHANNEL HD", DISNEY CHANNEL HD
+https://www.vavoo.to/play/4266326081/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+https://www.vavoo.to/play/2907107187/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1784842746/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOOD NETWORK HD", FOOD NETWORK HD
+https://www.vavoo.to/play/1662398623/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 9 FHD", CINEMAX POLAND 9 FHD
+https://www.vavoo.to/play/1370117670/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/2371829068/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NICKELODEON", NICKELODEON
+https://www.vavoo.to/play/518977987/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SPORT 3 HD", CANAL SPORT 3 HD
+https://www.vavoo.to/play/2190744944/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CLASSICA", CLASSICA
+https://www.vavoo.to/play/64060922/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="UMBRIA TV", UMBRIA TV
+https://www.vavoo.to/play/1597386407/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BBC FIRST", BBC FIRST
+https://www.vavoo.to/play/163612496/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISCOVERY FOCUS", DISCOVERY FOCUS
+https://www.vavoo.to/play/2113273064/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISNEY XD", DISNEY XD
+https://www.vavoo.to/play/99224805/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CREMONA 1", CREMONA 1
+https://www.vavoo.to/play/4137427510/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="COMPANY TV", COMPANY TV
+https://www.vavoo.to/play/1322483308/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISNEY JUNIOR", DISNEY JUNIOR
+https://www.vavoo.to/play/3236761715/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="COMPANY TV", COMPANY TV
+https://www.vavoo.to/play/1225484664/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 2", TVP 2
+https://www.vavoo.to/play/987253432/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 1", TVP 1
+https://www.vavoo.to/play/2105028712/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT NEWS", POLSAT NEWS
+https://www.vavoo.to/play/2199275678/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/3283623157/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CINE 34", CINE 34
+https://www.vavoo.to/play/62558606/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV PULS", TV PULS
+https://www.vavoo.to/play/2802119077/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV REPUBLIKA", TV REPUBLIKA
+https://www.vavoo.to/play/582984513/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP SERIALE", TVP SERIALE
+https://www.vavoo.to/play/612328203/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORT 1", ELEVEN SPORT 1
+https://www.vavoo.to/play/2591735451/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TTV", TTV
+https://www.vavoo.to/play/467088896/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA UNO", SKY CINEMA UNO
+https://www.vavoo.to/play/2872151911/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA 7", LA 7
+https://www.vavoo.to/play/2143522071/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV 4", TV 4
+https://www.vavoo.to/play/1366935147/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 1 HD", ELEVEN SPORTS 1 HD
+https://www.vavoo.to/play/1006132915/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CIELO", CIELO
+https://www.vavoo.to/play/3743894403/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="K2", K2
+https://www.vavoo.to/play/11090349/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 1", ELEVEN SPORTS 1
+https://www.vavoo.to/play/4171204086/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV6", TV6
+https://www.vavoo.to/play/1165507153/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DMAX", DMAX
+https://www.vavoo.to/play/3803638765/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 6", SKY PRIMAFILA 6
+https://www.vavoo.to/play/3939513684/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP", TVP
+https://www.vavoo.to/play/3646907051/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT 1", POLSAT SPORT 1
+https://www.vavoo.to/play/2101601326/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MILAN TV", MILAN TV
+https://www.vavoo.to/play/3657217948/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 4", ELEVEN SPORTS 4
+https://www.vavoo.to/play/600130832/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV PLUS", TV PLUS
+https://www.vavoo.to/play/1906015211/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="REAL TIME", REAL TIME
+https://www.vavoo.to/play/1574975196/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY CINEMA UNO", SKY CINEMA UNO
+https://www.vavoo.to/play/1699876530/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOKUS TV", FOKUS TV
+https://www.vavoo.to/play/634360804/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="VH1", VH1
+https://www.vavoo.to/play/2237660301/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/2283887097/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 2", SKY PRIMAFILA 2
+https://www.vavoo.to/play/525374356/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT PLAY", POLSAT PLAY
+https://www.vavoo.to/play/3766540147/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT 2", POLSAT SPORT 2
+https://www.vavoo.to/play/987995902/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 1", SKY PRIMAFILA 1
+https://www.vavoo.to/play/1492183364/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/2317684453/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KINO TV", KINO TV
+https://www.vavoo.to/play/3835728502/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ID HD", ID HD
+https://www.vavoo.to/play/2525432524/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY UNO", SKY UNO
+https://www.vavoo.to/play/2130523218/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOKUS TV", FOKUS TV
+https://www.vavoo.to/play/2669393240/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="13 ULICA", 13 ULICA
+https://www.vavoo.to/play/1699787152/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SUPER POLSAT", SUPER POLSAT
+https://www.vavoo.to/play/3067191309/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPER TENNIS", SUPER TENNIS
+https://www.vavoo.to/play/3009377513/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI YOYO", RAI YOYO
+https://www.vavoo.to/play/1890950169/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI MOVIE", RAI MOVIE
+https://www.vavoo.to/play/2835672487/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT 2", POLSAT 2
+https://www.vavoo.to/play/926991235/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://www.vavoo.to/play/386098181/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://www.vavoo.to/play/1682357493/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 7", SKY PRIMAFILA 7
+https://www.vavoo.to/play/4238969402/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CIELO", CIELO
+https://www.vavoo.to/play/2719953688/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3", TVP 3
+https://www.vavoo.to/play/3064723583/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SERIALE", POLSAT SERIALE
+https://www.vavoo.to/play/2249727134/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/4180342329/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI PREMIUM", RAI PREMIUM
+https://www.vavoo.to/play/2828455552/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="13 ULICA HD", 13 ULICA HD
+https://www.vavoo.to/play/3971783236/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOX", FOX
+https://www.vavoo.to/play/3085053385/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI NEWS 24", RAI NEWS 24
+https://www.vavoo.to/play/2239645272/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1986659225/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PREMIUM CRIME", PREMIUM CRIME
+https://www.vavoo.to/play/444768053/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://www.vavoo.to/play/3448075317/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="STOPKLATKA TV", STOPKLATKA TV
+https://www.vavoo.to/play/52562107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="STUDIOMED TV", STUDIOMED TV
+https://www.vavoo.to/play/2289661580/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MEDIASET IRIS", MEDIASET IRIS
+https://www.vavoo.to/play/23919988/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ZOOM TV", ZOOM TV
+https://www.vavoo.to/play/112021652/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TLC HD", TLC HD
+https://www.vavoo.to/play/3261680213/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTL 102.5", RTL 102.5
+https://www.vavoo.to/play/3168132911/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN FABULA", TVN FABULA
+https://www.vavoo.to/play/912980992/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY SPORT ARENA", SKY SPORT ARENA
+https://www.vavoo.to/play/2555960713/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BOING", BOING
+https://www.vavoo.to/play/3373510242/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DEEJAY TV", DEEJAY TV
+https://www.vavoo.to/play/3802167244/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA 5", LA 5
+https://www.vavoo.to/play/1425667375/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 2", POLSAT SPORT PREMIUM 2
+https://www.vavoo.to/play/2645884741/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="PULS 2", PULS 2
+https://www.vavoo.to/play/3651807489/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI PREMIUM", RAI PREMIUM
+https://www.vavoo.to/play/2861734300/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA 7", LA 7
+https://www.vavoo.to/play/775530063/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV TRWAM", TV TRWAM
+https://www.vavoo.to/play/900795441/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLO TV", POLO TV
+https://www.vavoo.to/play/1251969336/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN WHITE", AXN WHITE
+https://www.vavoo.to/play/3422335766/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="WARNER TV", WARNER TV
+https://www.vavoo.to/play/1934548163/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ROMANCE", ROMANCE
+https://www.vavoo.to/play/4061716033/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN", AXN
+https://www.vavoo.to/play/157522257/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="REAL TIME", REAL TIME
+https://www.vavoo.to/play/2251241999/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="WP TV", WP TV
+https://www.vavoo.to/play/3578999179/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPER TENNIS", SUPER TENNIS
+https://www.vavoo.to/play/3213195143/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MEDIASET 20", MEDIASET 20
+https://www.vavoo.to/play/3134481201/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FRISBEE", FRISBEE
+https://www.vavoo.to/play/1995860185/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
+https://www.vavoo.to/play/3187437518/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HBO3 HD", HBO3 HD
+https://www.vavoo.to/play/3525780366/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPER", SUPER
+https://www.vavoo.to/play/2900362153/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1964915714/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP SPORT", TVP SPORT
+https://www.vavoo.to/play/1843300747/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 4", SKY PRIMAFILA 4
+https://www.vavoo.to/play/3137990890/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/3387518871/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV PLUS 2", TV PLUS 2
+https://www.vavoo.to/play/2932475321/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT HD", POLSAT SPORT HD
+https://www.vavoo.to/play/4127619445/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TLC", TLC
+https://www.vavoo.to/play/1548922372/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EUROSPORT 1 HD", EUROSPORT 1 HD
+https://www.vavoo.to/play/2540520222/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HISTORY 2 HD", HISTORY 2 HD
+https://www.vavoo.to/play/2164851526/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA 7 D", LA 7 D
+https://www.vavoo.to/play/881846038/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI MOVIE", RAI MOVIE
+https://www.vavoo.to/play/1925964148/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT EXTRA 3", POLSAT SPORT EXTRA 3
+https://www.vavoo.to/play/1767745066/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX HD", CINEMAX HD
+https://www.vavoo.to/play/2136721351/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOX", FOX
+https://www.vavoo.to/play/1035466718/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY LIFE POLSKA", DISCOVERY LIFE POLSKA
+https://www.vavoo.to/play/771924147/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 12 FHD", CINEMAX POLAND 12 FHD
+https://www.vavoo.to/play/3667827095/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ALE KINO", ALE KINO
+https://www.vavoo.to/play/3945354960/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPER", SUPER
+https://www.vavoo.to/play/3550030443/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 9", SKY PRIMAFILA 9
+https://www.vavoo.to/play/1134113883/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 3", SKY PRIMAFILA 3
+https://www.vavoo.to/play/153693434/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/424355883/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP SPORT HD", TVP SPORT HD
+https://www.vavoo.to/play/1708469111/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT CAFE HD", POLSAT CAFE HD
+https://www.vavoo.to/play/189043094/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SPORT 1 HD", CANAL SPORT 1 HD
+https://www.vavoo.to/play/3232832013/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 17", SKY PRIMAFILA 17
+https://www.vavoo.to/play/1284441949/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 5", SKY PRIMAFILA 5
+https://www.vavoo.to/play/2255083866/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 10", SKY PRIMAFILA 10
+https://www.vavoo.to/play/4272937805/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT NEWS 2", POLSAT NEWS 2
+https://www.vavoo.to/play/225476081/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://www.vavoo.to/play/2384808701/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DA VINCI KIDS", DA VINCI KIDS
+https://www.vavoo.to/play/3663650028/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KINO TV HD", KINO TV HD
+https://www.vavoo.to/play/2036931513/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI YOYO", RAI YOYO
+https://www.vavoo.to/play/1785501924/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TELE 5", TELE 5
+https://www.vavoo.to/play/3400515310/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="IRIS", IRIS
+https://www.vavoo.to/play/576490047/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="51 RADIO TV", 51 RADIO TV
+https://www.vavoo.to/play/4216245552/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP ROZRYWKA", TVP ROZRYWKA
+https://www.vavoo.to/play/4266072851/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA 5", LA 5
+https://www.vavoo.to/play/84139639/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 3", SKY PRIMAFILA 3
+https://www.vavoo.to/play/573618724/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV 8", TV 8
+https://www.vavoo.to/play/4038365720/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 1", POLSAT SPORT PREMIUM 1
+https://www.vavoo.to/play/3658778005/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FOCUS", FOCUS
+https://www.vavoo.to/play/3439223610/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT EXTRA 4", POLSAT SPORT EXTRA 4
+https://www.vavoo.to/play/3682433594/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ROMANCE TV", ROMANCE TV
+https://www.vavoo.to/play/2937050383/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 8", SKY PRIMAFILA 8
+https://www.vavoo.to/play/1440779061/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ADVENTURE", ADVENTURE
+https://www.vavoo.to/play/3158654008/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/2378671303/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL FILM HD", CANAL FILM HD
+https://www.vavoo.to/play/1926452306/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 1 FHD", CINEMAX POLAND 1 FHD
+https://www.vavoo.to/play/3933402174/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SPORT ITALIA SOLO CALCIO", SPORT ITALIA SOLO CALCIO
+https://www.vavoo.to/play/830949486/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BBC EARTH HD", BBC EARTH HD
+https://www.vavoo.to/play/44931895/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISCOVERY NOVE", DISCOVERY NOVE
+https://www.vavoo.to/play/1574591400/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORT 3", ELEVEN SPORT 3
+https://www.vavoo.to/play/3770347003/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVR", TVR
+https://www.vavoo.to/play/701164508/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ZOOM TV", ZOOM TV
+https://www.vavoo.to/play/3550013956/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1437336181/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SUPER POLSAT", SUPER POLSAT
+https://www.vavoo.to/play/1091671947/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTL 102.5", RTL 102.5
+https://www.vavoo.to/play/1729811452/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="WP", WP
+https://www.vavoo.to/play/1389738905/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/932863820/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="STOPKLATKA TV", STOPKLATKA TV
+https://www.vavoo.to/play/1291874011/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY SCIENCE HD", DISCOVERY SCIENCE HD
+https://www.vavoo.to/play/3354385706/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="HGTV", HGTV
+https://www.vavoo.to/play/2897782781/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
+https://www.vavoo.to/play/2790585591/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://www.vavoo.to/play/1133813399/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="4FUN TV", 4FUN TV
+https://www.vavoo.to/play/2588849148/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 11", SKY PRIMAFILA 11
+https://www.vavoo.to/play/3285185277/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HISTORY", HISTORY
+https://www.vavoo.to/play/686503148/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 11 FHD", CINEMAX POLAND 11 FHD
+https://www.vavoo.to/play/3809715538/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HISTORY 2", HISTORY 2
+https://www.vavoo.to/play/132683279/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SPORTITALIA SOLOCALCIO", SPORTITALIA SOLOCALCIO
+https://www.vavoo.to/play/2198410339/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY HD", DISCOVERY HD
+https://www.vavoo.to/play/834680150/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HGTV", HGTV
+https://www.vavoo.to/play/3364167311/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 8", SKY PRIMAFILA 8
+https://www.vavoo.to/play/2130255339/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI STORIA", RAI STORIA
+https://www.vavoo.to/play/57338653/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FOCUS", FOCUS
+https://www.vavoo.to/play/2982550433/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY LIFE HD", DISCOVERY LIFE HD
+https://www.vavoo.to/play/2100786133/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 16", SKY PRIMAFILA 16
+https://www.vavoo.to/play/1911500525/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="GIALLO", GIALLO
+https://www.vavoo.to/play/2373936189/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP HISTORIA", TVP HISTORIA
+https://www.vavoo.to/play/3673567373/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV 6", TV 6
+https://www.vavoo.to/play/733582603/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 1", POLSAT SPORT PREMIUM 1
+https://www.vavoo.to/play/2616815072/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 3", ELEVEN SPORTS 3
+https://www.vavoo.to/play/2187318934/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP HISTORY", TVP HISTORY
+https://www.vavoo.to/play/2409796230/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="KISS KISS ITALIA", KISS KISS ITALIA
+https://www.vavoo.to/play/1370869299/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="INTER TV", INTER TV
+https://www.vavoo.to/play/2973773076/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="27 TWENTY SEVEN", 27 TWENTY SEVEN
+https://www.vavoo.to/play/608774683/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MINIMINI", MINIMINI
+https://www.vavoo.to/play/1117825618/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV 8", TV 8
+https://www.vavoo.to/play/2706291008/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/3901320846/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP KULTURA", TVP KULTURA
+https://www.vavoo.to/play/3415541634/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="70", 70
+https://www.vavoo.to/play/3701871205/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT DOKU", POLSAT DOKU
+https://www.vavoo.to/play/1307720792/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 14", SKY PRIMAFILA 14
+https://www.vavoo.to/play/187661709/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT MUSIC HD", POLSAT MUSIC HD
+https://www.vavoo.to/play/4033823883/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KINO POLSKA MUZYKA", KINO POLSKA MUZYKA
+https://www.vavoo.to/play/2554778478/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EPIC DRAMA", EPIC DRAMA
+https://www.vavoo.to/play/711982265/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 3", ELEVEN SPORTS 3
+https://www.vavoo.to/play/2447743232/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FIGHT KLUB", FIGHT KLUB
+https://www.vavoo.to/play/4222051750/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOX COMEDY", FOX COMEDY
+https://www.vavoo.to/play/1305944181/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="PLANETE", PLANETE
+https://www.vavoo.to/play/3075534580/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 KATOWICE", TVP 3 KATOWICE
+https://www.vavoo.to/play/1292816150/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FOX", FOX
+https://www.vavoo.to/play/563160609/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT PLAY HD", POLSAT PLAY HD
+https://www.vavoo.to/play/2262561089/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI SCUOLA", RAI SCUOLA
+https://www.vavoo.to/play/2007798511/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RDS SOCIAL TV", RDS SOCIAL TV
+https://www.vavoo.to/play/3656080408/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KUCHNIA HD", KUCHNIA HD
+https://www.vavoo.to/play/77576482/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCO POLO MUSIC", DISCO POLO MUSIC
+https://www.vavoo.to/play/81805306/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="W POLSCE", W POLSCE
+https://www.vavoo.to/play/1822618245/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 5 FHD", CINEMAX POLAND 5 FHD
+https://www.vavoo.to/play/3080627506/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MEDIASET ITALIA", MEDIASET ITALIA
+https://www.vavoo.to/play/1989562337/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOX COMEDY", FOX COMEDY
+https://www.vavoo.to/play/87838870/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TOP CRIME", TOP CRIME
+https://www.vavoo.to/play/269503091/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DTX", DTX
+https://www.vavoo.to/play/1231867576/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="WPOLSCE.PL", WPOLSCE.PL
+https://www.vavoo.to/play/2900010789/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 2 FHD", CINEMAX POLAND 2 FHD
+https://www.vavoo.to/play/3556755707/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="VIASAT EXPLORE CLASSIC", VIASAT EXPLORE CLASSIC
+https://www.vavoo.to/play/729828219/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/4132586673/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 19 FHD", CINEMAX POLAND 19 FHD
+https://www.vavoo.to/play/1489700682/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT FIGHT", POLSAT SPORT FIGHT
+https://www.vavoo.to/play/1905442330/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/602326565/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NAT GEO PEOPLE HD", NAT GEO PEOPLE HD
+https://www.vavoo.to/play/3276516180/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI SCUOLA", RAI SCUOLA
+https://www.vavoo.to/play/1886684667/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL DOKUMENT HD", CANAL DOKUMENT HD
+https://www.vavoo.to/play/2812394681/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT NEWS POLITYKA", POLSAT NEWS POLITYKA
+https://www.vavoo.to/play/1513427389/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP KULTURA", TVP KULTURA
+https://www.vavoo.to/play/3100696434/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVN ZYCIE JAK W BAJCE", TVN ZYCIE JAK W BAJCE
+https://www.vavoo.to/play/997076381/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BBC EARTH", BBC EARTH
+https://www.vavoo.to/play/1539172891/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/35637484/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE ABRUZZO", TELE ABRUZZO
+https://www.vavoo.to/play/1668393582/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="111 TV", 111 TV
+https://www.vavoo.to/play/1600139819/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://www.vavoo.to/play/2820683351/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FIGHTBOX", FIGHTBOX
+https://www.vavoo.to/play/4040172127/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="HGTV", HGTV
+https://www.vavoo.to/play/4248997029/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKYSHOWTIME 1", SKYSHOWTIME 1
+https://www.vavoo.to/play/2873793231/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TELETOON", TELETOON
+https://www.vavoo.to/play/1259787279/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CAFE 24", CAFE 24
+https://www.vavoo.to/play/1625923783/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT VIASAT NATURE HD", POLSAT VIASAT NATURE HD
+https://www.vavoo.to/play/3569434675/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="PVOD", PVOD
+https://www.vavoo.to/play/471123342/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 5", SKY PRIMAFILA 5
+https://www.vavoo.to/play/2909818756/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NOVELA TV", NOVELA TV
+https://www.vavoo.to/play/3208882953/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="12 TV PARMA", 12 TV PARMA
+https://www.vavoo.to/play/631792369/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 13", SKY PRIMAFILA 13
+https://www.vavoo.to/play/3104809373/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HBO 3", HBO 3
+https://www.vavoo.to/play/606798235/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FX", FX
+https://www.vavoo.to/play/1259985177/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVC", TVC
+https://www.vavoo.to/play/4263481337/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ITALIA 2", ITALIA 2
+https://www.vavoo.to/play/1613543898/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ANIMAL PLANET HD", ANIMAL PLANET HD
+https://www.vavoo.to/play/1537256341/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BELLLA", BELLLA
+https://www.vavoo.to/play/161144675/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="4FUN.TV", 4FUN.TV
+https://www.vavoo.to/play/524579377/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EPIC DRAMA HD", EPIC DRAMA HD
+https://www.vavoo.to/play/368461185/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HISTORY HD", HISTORY HD
+https://www.vavoo.to/play/2428413220/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="REGGIO TV", REGGIO TV
+https://www.vavoo.to/play/2165549789/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="PLANETE HD", PLANETE HD
+https://www.vavoo.to/play/992745062/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ITALIAN FISHING TV", ITALIAN FISHING TV
+https://www.vavoo.to/play/4235410936/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CACCIA", CACCIA
+https://www.vavoo.to/play/1692155417/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PESCA", PESCA
+https://www.vavoo.to/play/714472867/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 7", CANALE 7
+https://www.vavoo.to/play/565256431/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MEDIASET ITALIA 2", MEDIASET ITALIA 2
+https://www.vavoo.to/play/3538009430/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EXTREME SPORTS CHANNEL", EXTREME SPORTS CHANNEL
+https://www.vavoo.to/play/3814338240/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SCIFI HD", SCIFI HD
+https://www.vavoo.to/play/2845384359/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 10 FHD", CINEMAX POLAND 10 FHD
+https://www.vavoo.to/play/4100501777/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://www.vavoo.to/play/2767861049/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 GORZOW", TVP 3 GORZOW
+https://www.vavoo.to/play/3188694224/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="M2O", M2O
+https://www.vavoo.to/play/215827632/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 4 FHD", CINEMAX POLAND 4 FHD
+https://www.vavoo.to/play/2699407729/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISNEY", DISNEY
+https://www.vavoo.to/play/1264775727/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 15", SKY PRIMAFILA 15
+https://www.vavoo.to/play/911168573/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLONIA 1", POLONIA 1
+https://www.vavoo.to/play/3249184013/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NATIONAL GEO", NATIONAL GEO
+https://www.vavoo.to/play/452217107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 4 TIMVISION", EUROSPORT 4 TIMVISION
+https://www.vavoo.to/play/1668185301/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN BLACK", AXN BLACK
+https://www.vavoo.to/play/1005418743/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="LIFETIME HD", LIFETIME HD
+https://www.vavoo.to/play/3557114787/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TRAVEL CHANNEL HD", TRAVEL CHANNEL HD
+https://www.vavoo.to/play/2774595223/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ACI SPORT TV", ACI SPORT TV
+https://www.vavoo.to/play/1351631603/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV 2000", TV 2000
+https://www.vavoo.to/play/1949044924/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NAT GEO PEOPLE", NAT GEO PEOPLE
+https://www.vavoo.to/play/3490886422/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CARTOONITO", CARTOONITO
+https://www.vavoo.to/play/1987220436/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MINIMINI HD", MINIMINI HD
+https://www.vavoo.to/play/2305742179/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="4FUN KIDS", 4FUN KIDS
+https://www.vavoo.to/play/1036844137/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT GAMES", POLSAT GAMES
+https://www.vavoo.to/play/426276697/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT FIGHT HD", POLSAT SPORT FIGHT HD
+https://www.vavoo.to/play/3105781098/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT RODZINA", POLSAT RODZINA
+https://www.vavoo.to/play/4143781640/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SKY PRIMAFILA 12", SKY PRIMAFILA 12
+https://www.vavoo.to/play/2221901869/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT MUSIC", POLSAT MUSIC
+https://www.vavoo.to/play/1416917628/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BBC BRIT POLSKA", BBC BRIT POLSKA
+https://www.vavoo.to/play/3946902235/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
+https://www.vavoo.to/play/1575848975/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MEDIASET 1", MEDIASET 1
+https://www.vavoo.to/play/633342961/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORTS 4 HD", ELEVEN SPORTS 4 HD
+https://www.vavoo.to/play/1930973399/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="GIALLO", GIALLO
+https://www.vavoo.to/play/4060499455/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BIZNES 24", BIZNES 24
+https://www.vavoo.to/play/2539427397/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AMC", AMC
+https://www.vavoo.to/play/2733166280/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1109636901/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BBC TOP GEAR ITALY", BBC TOP GEAR ITALY
+https://www.vavoo.to/play/2330946937/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT VIASAT HISTORY HD", POLSAT VIASAT HISTORY HD
+https://www.vavoo.to/play/1727851845/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 3 FHD", CINEMAX POLAND 3 FHD
+https://www.vavoo.to/play/3297041592/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI GULP", RAI GULP
+https://www.vavoo.to/play/1803677691/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV TORUN", TV TORUN
+https://www.vavoo.to/play/1607482673/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HOME TV", HOME TV
+https://www.vavoo.to/play/3625034813/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="METRO", METRO
+https://www.vavoo.to/play/3397107594/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLO TV", POLO TV
+https://www.vavoo.to/play/2678731688/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CARTOONITO", CARTOONITO
+https://www.vavoo.to/play/1907000512/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LIRA TV", LIRA TV
+https://www.vavoo.to/play/2835333400/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP DOKUMENT", TVP DOKUMENT
+https://www.vavoo.to/play/3067271393/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="METRO", METRO
+https://www.vavoo.to/play/2070422781/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ETV MARCHE", ETV MARCHE
+https://www.vavoo.to/play/273312373/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELERAMA", TELERAMA
+https://www.vavoo.to/play/4017608910/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SCI", SCI
+https://www.vavoo.to/play/1230975346/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TG NORBA 24", TG NORBA 24
+https://www.vavoo.to/play/3379729817/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TG NORBA 24", TG NORBA 24
+https://www.vavoo.to/play/3413557893/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL FAMILY HD", CANAL FAMILY HD
+https://www.vavoo.to/play/3412671176/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ONDA NOVARA TV", ONDA NOVARA TV
+https://www.vavoo.to/play/3134124967/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ELEVEN SPORT 2", ELEVEN SPORT 2
+https://www.vavoo.to/play/3722101835/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="7 YOU", 7 YOU
+https://www.vavoo.to/play/1787751758/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ACTIVE FAMILY", ACTIVE FAMILY
+https://www.vavoo.to/play/3826931887/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ESKA TV", ESKA TV
+https://www.vavoo.to/play/3645374252/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="KINO POLSKA MUZYKA", KINO POLSKA MUZYKA
+https://www.vavoo.to/play/3236713648/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI STORIA", RAI STORIA
+https://www.vavoo.to/play/78838793/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 OLSZTYN", TVP 3 OLSZTYN
+https://www.vavoo.to/play/936717519/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CUSANO NEWS7", CUSANO NEWS7
+https://www.vavoo.to/play/861948627/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 14 FHD", CINEMAX POLAND 14 FHD
+https://www.vavoo.to/play/2844057629/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DOMO HD", DOMO HD
+https://www.vavoo.to/play/4174026400/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ALTO ADIGE TV", ALTO ADIGE TV
+https://www.vavoo.to/play/68845853/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://www.vavoo.to/play/1908877526/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="27 TWENTYSEVEN", 27 TWENTYSEVEN
+https://www.vavoo.to/play/80896559/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="HBO HD", HBO HD
+https://www.vavoo.to/play/1620501998/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SPORT KLUB", SPORT KLUB
+https://www.vavoo.to/play/681181639/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="YU", YU
+https://www.vavoo.to/play/2849811027/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AMC", AMC
+https://www.vavoo.to/play/683480287/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 16 FHD", CINEMAX POLAND 16 FHD
+https://www.vavoo.to/play/2272446619/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://www.vavoo.to/play/948648866/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 7 FHD", CINEMAX POLAND 7 FHD
+https://www.vavoo.to/play/2573766068/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FASHIONTV", FASHIONTV
+https://www.vavoo.to/play/3255207570/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NOWA TV", NOWA TV
+https://www.vavoo.to/play/1479873275/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 122", CANALE 122
+https://www.vavoo.to/play/466718273/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TOP CRIME", TOP CRIME
+https://www.vavoo.to/play/3420407456/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NICKTOONS", NICKTOONS
+https://www.vavoo.to/play/2228696585/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MOTOWIZJA", MOTOWIZJA
+https://www.vavoo.to/play/330534602/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 18 FHD", CINEMAX POLAND 18 FHD
+https://www.vavoo.to/play/1336939273/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CARTOON NETWORK HD", CARTOON NETWORK HD
+https://www.vavoo.to/play/819040084/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT RODZINA", POLSAT RODZINA
+https://www.vavoo.to/play/4044346484/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SPORTITALIA PLUS", SPORTITALIA PLUS
+https://www.vavoo.to/play/3342849313/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NAT GEO", NAT GEO
+https://www.vavoo.to/play/1567511198/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NAT GEO", NAT GEO
+https://www.vavoo.to/play/1735702308/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX 2 HD", CINEMAX 2 HD
+https://www.vavoo.to/play/1474710776/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 WARSZAWA", TVP 3 WARSZAWA
+https://www.vavoo.to/play/3336246194/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="RED CARPET", RED CARPET
+https://www.vavoo.to/play/572291538/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NSPORT", NSPORT
+https://www.vavoo.to/play/3439028847/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="4FUN DANCE", 4FUN DANCE
+https://www.vavoo.to/play/142003077/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NATIONAL GEOGRAPHIC WILD", NATIONAL GEOGRAPHIC WILD
+https://www.vavoo.to/play/3673566291/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT JIM JAM", POLSAT JIM JAM
+https://www.vavoo.to/play/2086273015/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SPORT KLUB", SPORT KLUB
+https://www.vavoo.to/play/1618047268/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 20 FHD", CINEMAX POLAND 20 FHD
+https://www.vavoo.to/play/526322194/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 21 EXTRA", CANALE 21 EXTRA
+https://www.vavoo.to/play/2454558136/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NUTA GOLD", NUTA GOLD
+https://www.vavoo.to/play/4236817408/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 15 FHD", CINEMAX POLAND 15 FHD
+https://www.vavoo.to/play/3204445278/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 2", CANALE 2
+https://www.vavoo.to/play/3914444703/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BOOMERANG", BOOMERANG
+https://www.vavoo.to/play/1863249989/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 17 FHD", CINEMAX POLAND 17 FHD
+https://www.vavoo.to/play/2416565464/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CBS EUROPA", CBS EUROPA
+https://www.vavoo.to/play/1257087524/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 7", CANALE 7
+https://www.vavoo.to/play/996680722/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1065345372/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://www.vavoo.to/play/669937463/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 21 CAMPANIA", CANALE 21 CAMPANIA
+https://www.vavoo.to/play/3906007886/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN SPIN", AXN SPIN
+https://www.vavoo.to/play/870571372/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NOWA TV", NOWA TV
+https://www.vavoo.to/play/2365630571/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETE 8", RETE 8
+https://www.vavoo.to/play/1070290151/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 6 TIMVISION", EUROSPORT 6 TIMVISION
+https://www.vavoo.to/play/3421031748/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY SCIENCE POLSKA", DISCOVERY SCIENCE POLSKA
+https://www.vavoo.to/play/1460460808/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NSPORT", NSPORT
+https://www.vavoo.to/play/1861871898/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POWER TV", POWER TV
+https://www.vavoo.to/play/566681293/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BLAZE", BLAZE
+https://www.vavoo.to/play/2532635659/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CINEMAX POLAND 6 FHD", CINEMAX POLAND 6 FHD
+https://www.vavoo.to/play/2383649271/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CBS REALITY", CBS REALITY
+https://www.vavoo.to/play/1553020901/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY TURBO XTRA", DISCOVERY TURBO XTRA
+https://www.vavoo.to/play/903422160/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV OKAZJE", TV OKAZJE
+https://www.vavoo.to/play/463041335/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="WATER PLANET", WATER PLANET
+https://www.vavoo.to/play/2319585201/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="GOLD TV", GOLD TV
+https://www.vavoo.to/play/2854396316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TRACE TV", TRACE TV
+https://www.vavoo.to/play/3533896405/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVT ZGORZELEC", TVT ZGORZELEC
+https://www.vavoo.to/play/2163207394/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ALMA TV", ALMA TV
+https://www.vavoo.to/play/4131113723/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="QVC ITALIA", QVC ITALIA
+https://www.vavoo.to/play/1232565681/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV KUJAWY", TV KUJAWY
+https://www.vavoo.to/play/3707264713/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT GAMES", POLSAT GAMES
+https://www.vavoo.to/play/4004004063/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 3", POLSAT SPORT PREMIUM 3
+https://www.vavoo.to/play/2698303221/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL HD", CANAL HD
+https://www.vavoo.to/play/867185230/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 8", CANALE 8
+https://www.vavoo.to/play/2749478718/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAI GULP", RAI GULP
+https://www.vavoo.to/play/1901652742/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="LIFETIME", LIFETIME
+https://www.vavoo.to/play/3554009237/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="KISS KISS", KISS KISS
+https://www.vavoo.to/play/950030926/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DLA CIEBIE TV", DLA CIEBIE TV
+https://www.vavoo.to/play/1421666112/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ITALIA 3", ITALIA 3
+https://www.vavoo.to/play/1200985239/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="VIDEOSTAR TV", VIDEOSTAR TV
+https://www.vavoo.to/play/2499488584/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SUPERSTACJA", SUPERSTACJA
+https://www.vavoo.to/play/4281111174/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1704728504/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="AVENGERS GRIMM CHANNEL", AVENGERS GRIMM CHANNEL
+https://www.vavoo.to/play/1506307932/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NICK JUNIOR", NICK JUNIOR
+https://www.vavoo.to/play/4176312110/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL SERIALE HD", CANAL SERIALE HD
+https://www.vavoo.to/play/624101167/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MOTOWIZJA HD", MOTOWIZJA HD
+https://www.vavoo.to/play/2092513799/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TRSPORT", TRSPORT
+https://www.vavoo.to/play/361314062/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="E", E
+https://www.vavoo.to/play/961489161/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FASHION TV", FASHION TV
+https://www.vavoo.to/play/3028319308/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="KISS KISS NAPOLI", KISS KISS NAPOLI
+https://www.vavoo.to/play/3027903278/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ANTENNA 2", ANTENNA 2
+https://www.vavoo.to/play/3014001260/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 4", POLSAT SPORT PREMIUM 4
+https://www.vavoo.to/play/317983461/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ARANCIA TV", ARANCIA TV
+https://www.vavoo.to/play/1792428355/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ESKA TV EXTRA", ESKA TV EXTRA
+https://www.vavoo.to/play/330744242/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="VIDEOLINA", VIDEOLINA
+https://www.vavoo.to/play/1249978054/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCOVERY HISTORY", DISCOVERY HISTORY
+https://www.vavoo.to/play/3481646151/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="VOX MUSIC TV", VOX MUSIC TV
+https://www.vavoo.to/play/2345647838/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 OPOLE", TVP 3 OPOLE
+https://www.vavoo.to/play/757190268/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 2", POLSAT SPORT PREMIUM 2
+https://www.vavoo.to/play/4175341915/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ST EUROPE CHANNEL", ST EUROPE CHANNEL
+https://www.vavoo.to/play/2356295928/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEFOGGIA", TELEFOGGIA
+https://www.vavoo.to/play/2365107871/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EXTREME SPORTS", EXTREME SPORTS
+https://www.vavoo.to/play/965395960/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 2 TIMVISION", EUROSPORT 2 TIMVISION
+https://www.vavoo.to/play/1100261415/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ATM ROZRYWKA TV", ATM ROZRYWKA TV
+https://www.vavoo.to/play/353869275/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MOTOWIZJA HD", MOTOWIZJA HD
+https://www.vavoo.to/play/1758414812/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="VOX MUSIC TV", VOX MUSIC TV
+https://www.vavoo.to/play/2081392984/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ACTIVE FAMILY", ACTIVE FAMILY
+https://www.vavoo.to/play/2855812815/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL", CANAL
+https://www.vavoo.to/play/1170190908/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="E", E
+https://www.vavoo.to/play/3489370267/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MTV POLSKA", MTV POLSKA
+https://www.vavoo.to/play/1426086923/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN SPIN HD", AXN SPIN HD
+https://www.vavoo.to/play/3410155067/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="NUTA TV", NUTA TV
+https://www.vavoo.to/play/2214692239/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN BLACK", AXN BLACK
+https://www.vavoo.to/play/3012481844/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 1", POLSAT SPORT PREMIUM 1
+https://www.vavoo.to/play/2227145856/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CI POLSAT HD", CI POLSAT HD
+https://www.vavoo.to/play/995858220/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EXTREME SPORTS HD", EXTREME SPORTS HD
+https://www.vavoo.to/play/151590303/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 5 PPV", POLSAT SPORT PREMIUM 5 PPV
+https://www.vavoo.to/play/1029018998/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="STAR CHANNEL", STAR CHANNEL
+https://www.vavoo.to/play/3237793511/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BYOBLU", BYOBLU
+https://www.vavoo.to/play/2826111812/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EXTRA TV", EXTRA TV
+https://www.vavoo.to/play/3365697389/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="JIMJAM POLSAT", JIMJAM POLSAT
+https://www.vavoo.to/play/2371007314/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FM ITALIA TV", FM ITALIA TV
+https://www.vavoo.to/play/32417864/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CARTOONITO", CARTOONITO
+https://www.vavoo.to/play/2178717282/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="STARS TV", STARS TV
+https://www.vavoo.to/play/4113862971/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN", AXN
+https://www.vavoo.to/play/2201371462/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BLOOMBERG TV 4K", BLOOMBERG TV 4K
+https://www.vavoo.to/play/3911047486/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ELIVE TV BRESCIA", ELIVE TV BRESCIA
+https://www.vavoo.to/play/1521821490/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ESPERIA TV", ESPERIA TV
+https://www.vavoo.to/play/3525104604/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="GLOBUS TELEVISION", GLOBUS TELEVISION
+https://www.vavoo.to/play/2116902817/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FX COMEDY", FX COMEDY
+https://www.vavoo.to/play/2959297378/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ARTE NETWORK", ARTE NETWORK
+https://www.vavoo.to/play/430570853/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SUNDANCE HD", SUNDANCE HD
+https://www.vavoo.to/play/3165750608/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP ABC", TVP ABC
+https://www.vavoo.to/play/3887683423/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="STAR CRIME", STAR CRIME
+https://www.vavoo.to/play/2843642945/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="STARS.TV", STARS.TV
+https://www.vavoo.to/play/534760666/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE 8", CANALE 8
+https://www.vavoo.to/play/3107500995/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ENTELLA TV", ENTELLA TV
+https://www.vavoo.to/play/1371658771/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EURO TV", EURO TV
+https://www.vavoo.to/play/4222258377/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 3 PPV", POLSAT SPORT PREMIUM 3 PPV
+https://www.vavoo.to/play/1313860860/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SAN MARINO RTV", SAN MARINO RTV
+https://www.vavoo.to/play/968665235/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BERGAMO TV", BERGAMO TV
+https://www.vavoo.to/play/2476433040/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEMOLISE", TELEMOLISE
+https://www.vavoo.to/play/780186974/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CBEEBIES", CBEEBIES
+https://www.vavoo.to/play/3497040704/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEARENA", TELEARENA
+https://www.vavoo.to/play/4081561014/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="AURORA ARTE", AURORA ARTE
+https://www.vavoo.to/play/3267376899/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="GOLF CHANNEL", GOLF CHANNEL
+https://www.vavoo.to/play/3543553982/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CANALE DIECI", CANALE DIECI
+https://www.vavoo.to/play/1431729360/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CARINA TV", CARINA TV
+https://www.vavoo.to/play/1527236924/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPERSIX LOMBARDIA", SUPERSIX LOMBARDIA
+https://www.vavoo.to/play/849124464/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEPACE 1", TELEPACE 1
+https://www.vavoo.to/play/2876646700/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP SPORT", TVP SPORT
+https://www.vavoo.to/play/3854377544/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BABY TV", BABY TV
+https://www.vavoo.to/play/2265727942/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISCOVERY K2", DISCOVERY K2
+https://www.vavoo.to/play/3037871903/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT DOKU HD", POLSAT DOKU HD
+https://www.vavoo.to/play/2973917914/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PADRE PIO TV", PADRE PIO TV
+https://www.vavoo.to/play/435016866/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="STEREO 5 TV", STEREO 5 TV
+https://www.vavoo.to/play/88205050/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="UMBRIA TV", UMBRIA TV
+https://www.vavoo.to/play/2230919796/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CATFISH", CATFISH
+https://www.vavoo.to/play/2381583828/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="AXN WHITE", AXN WHITE
+https://www.vavoo.to/play/1134500053/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LOVE FM TV", LOVE FM TV
+https://www.vavoo.to/play/3344963942/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ZEST TV", ZEST TV
+https://www.vavoo.to/play/948919096/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SUNDANCE TV", SUNDANCE TV
+https://www.vavoo.to/play/2713738146/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FM ITALIA", FM ITALIA
+https://www.vavoo.to/play/651388134/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="VIDEO NOVARA", VIDEO NOVARA
+https://www.vavoo.to/play/2791781421/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTM TV", RTM TV
+https://www.vavoo.to/play/2294009196/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TBN", TBN
+https://www.vavoo.to/play/2663910341/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="A3", A3
+https://www.vavoo.to/play/445158856/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 KIELCE", TVP 3 KIELCE
+https://www.vavoo.to/play/3367735435/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ITALIAN FISHING TV", ITALIAN FISHING TV
+https://www.vavoo.to/play/477083716/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BABY TV", BABY TV
+https://www.vavoo.to/play/3503957951/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ESKA ROCK TV", ESKA ROCK TV
+https://www.vavoo.to/play/1755222109/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="GOLF CHANNEL", GOLF CHANNEL
+https://www.vavoo.to/play/620126264/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TV OKAZJE", TV OKAZJE
+https://www.vavoo.to/play/2482690292/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 SZCZECIN", TVP 3 SZCZECIN
+https://www.vavoo.to/play/2773348699/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ESPANSIONE TV", ESPANSIONE TV
+https://www.vavoo.to/play/539484419/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RADIO 51", RADIO 51
+https://www.vavoo.to/play/2339747193/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ESPERIA TV 18", ESPERIA TV 18
+https://www.vavoo.to/play/1812508372/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTC TELECALABRIA", RTC TELECALABRIA
+https://www.vavoo.to/play/639406775/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CARTOONITO", CARTOONITO
+https://www.vavoo.to/play/1624250107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="4FUN GOLD HITS", 4FUN GOLD HITS
+https://www.vavoo.to/play/1043321365/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://www.vavoo.to/play/1352867541/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PRIMA TV", PRIMA TV
+https://www.vavoo.to/play/530658045/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE PAVIA", TELE PAVIA
+https://www.vavoo.to/play/616483317/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELETUTTO", TELETUTTO
+https://www.vavoo.to/play/3271666551/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETE ORO", RETE ORO
+https://www.vavoo.to/play/3351863213/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CANAL NOW", CANAL NOW
+https://www.vavoo.to/play/391805483/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 4 PPV", POLSAT SPORT PREMIUM 4 PPV
+https://www.vavoo.to/play/707690805/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="EUROSPORT 2 HD", EUROSPORT 2 HD
+https://www.vavoo.to/play/434259197/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPER TV BRESCIA", SUPER TV BRESCIA
+https://www.vavoo.to/play/2061826034/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BELLA RADIO TV", BELLA RADIO TV
+https://www.vavoo.to/play/1585005860/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SUPER TV ARISTANIS", SUPER TV ARISTANIS
+https://www.vavoo.to/play/11653719/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV7 NEWS", TV7 NEWS
+https://www.vavoo.to/play/2802329064/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BLOOMBERG TV", BLOOMBERG TV
+https://www.vavoo.to/play/116299718/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PRIMO CANALE", PRIMO CANALE
+https://www.vavoo.to/play/3497884599/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA C ONAIR", LA C ONAIR
+https://www.vavoo.to/play/1533131501/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="REI TV", REI TV
+https://www.vavoo.to/play/3075118500/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV2000", TV2000
+https://www.vavoo.to/play/1133734972/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="KISS KISS", KISS KISS
+https://www.vavoo.to/play/3815726749/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DA VINCI", DA VINCI
+https://www.vavoo.to/play/1100598548/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MOTORTREND", MOTORTREND
+https://www.vavoo.to/play/3758728323/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 BIALYSTOK", TVP 3 BIALYSTOK
+https://www.vavoo.to/play/130677475/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP ABC", TVP ABC
+https://www.vavoo.to/play/848096719/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ESKA TV", ESKA TV
+https://www.vavoo.to/play/208815548/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TNT HD", TNT HD
+https://www.vavoo.to/play/2598460129/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOX HD", FOX HD
+https://www.vavoo.to/play/4184738360/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TELETOON HD", TELETOON HD
+https://www.vavoo.to/play/835101687/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTV SAN MARINO", RTV SAN MARINO
+https://www.vavoo.to/play/2343767125/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EUROSPORT 5 TIMVISION", EUROSPORT 5 TIMVISION
+https://www.vavoo.to/play/3667240765/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RADIONORBA TV", RADIONORBA TV
+https://www.vavoo.to/play/2627662768/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETE VENETA", RETE VENETA
+https://www.vavoo.to/play/1085172353/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT PREMIUM 6 PPV", POLSAT SPORT PREMIUM 6 PPV
+https://www.vavoo.to/play/81308083/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://www.vavoo.to/play/528430841/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEBELLUNO", TELEBELLUNO
+https://www.vavoo.to/play/3696520354/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ÈTV MARCHE (6)", ÈTV MARCHE (6)
+https://www.vavoo.to/play/3069499316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://www.vavoo.to/play/3428501495/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="DISCO POLO MUSIC", DISCO POLO MUSIC
+https://www.vavoo.to/play/1469133702/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RADIO FRECCIA", RADIO FRECCIA
+https://www.vavoo.to/play/1711134994/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTV SAN MARINO SPORT", RTV SAN MARINO SPORT
+https://www.vavoo.to/play/1113853263/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TVA VICENZA", TVA VICENZA
+https://www.vavoo.to/play/3071392662/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="CAMERA DEI DEPUTATI", CAMERA DEI DEPUTATI
+https://www.vavoo.to/play/4253692893/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MOTORTREND", MOTORTREND
+https://www.vavoo.to/play/3889279895/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RAKUTEN FAMILY", RAKUTEN FAMILY
+https://www.vavoo.to/play/3902650955/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EQU TV", EQU TV
+https://www.vavoo.to/play/2818586668/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ORLER TV", ORLER TV
+https://www.vavoo.to/play/3471319012/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="FANO TV", FANO TV
+https://www.vavoo.to/play/1798700028/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ESKAROCK TV", ESKAROCK TV
+https://www.vavoo.to/play/68131996/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="SPORTKLUB HD", SPORTKLUB HD
+https://www.vavoo.to/play/2627011267/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RMC 101", RMC 101
+https://www.vavoo.to/play/2209352147/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELESPAZIO TV", TELESPAZIO TV
+https://www.vavoo.to/play/386765643/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV LUNA", TV LUNA
+https://www.vavoo.to/play/3789706642/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT NEWS HD", POLSAT SPORT NEWS HD
+https://www.vavoo.to/play/1366223122/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="QVC", QVC
+https://www.vavoo.to/play/2952884641/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PRIMOCANALE", PRIMOCANALE
+https://www.vavoo.to/play/2944239261/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEQUATTRO", TELEQUATTRO
+https://www.vavoo.to/play/1083984669/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="EURO INDIE MUSIC CHART TV", EURO INDIE MUSIC CHART TV
+https://www.vavoo.to/play/3569731325/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 LODZ", TVP 3 LODZ
+https://www.vavoo.to/play/3986136182/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BIKE", BIKE
+https://www.vavoo.to/play/3095895412/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 LUBLIN", TVP 3 LUBLIN
+https://www.vavoo.to/play/3156025849/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT NEWS", POLSAT SPORT NEWS
+https://www.vavoo.to/play/2350624386/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE VENEZIA", TELE VENEZIA
+https://www.vavoo.to/play/109522219/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="BABY TV", BABY TV
+https://www.vavoo.to/play/3938501125/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTP", RTP
+https://www.vavoo.to/play/4136045815/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV QUI", TV QUI
+https://www.vavoo.to/play/2202937518/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="ESKA TV EXTRA", ESKA TV EXTRA
+https://www.vavoo.to/play/1570023378/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="UNINETTUNO UNIVERSITY TV", UNINETTUNO UNIVERSITY TV
+https://www.vavoo.to/play/376550441/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FIGHT KLUB HD", FIGHT KLUB HD
+https://www.vavoo.to/play/934337228/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RDS SOCIAL", RDS SOCIAL
+https://www.vavoo.to/play/4031388312/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MTV 00S", MTV 00S
+https://www.vavoo.to/play/4241317601/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LAZIO TV 13", LAZIO TV 13
+https://www.vavoo.to/play/566527512/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BBC FIRST", BBC FIRST
+https://www.vavoo.to/play/2174954643/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CBS REALITY HD", CBS REALITY HD
+https://www.vavoo.to/play/1267459745/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="GOLF CHANNEL HD", GOLF CHANNEL HD
+https://www.vavoo.to/play/4240372536/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="POLSAT SPORT FIGHT", POLSAT SPORT FIGHT
+https://www.vavoo.to/play/691550660/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="VIDEOTOLENTINO", VIDEOTOLENTINO
+https://www.vavoo.to/play/2015312510/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FIGHTBOX HD", FIGHTBOX HD
+https://www.vavoo.to/play/3248165205/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FIGHT BOX HD", FIGHT BOX HD
+https://www.vavoo.to/play/911438690/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FIGHTKLUB HD", FIGHTKLUB HD
+https://www.vavoo.to/play/2415572897/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ICARO TV", ICARO TV
+https://www.vavoo.to/play/2488017405/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="CBS EUROPA HD", CBS EUROPA HD
+https://www.vavoo.to/play/3350461588/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA C TV", LA C TV
+https://www.vavoo.to/play/660106690/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="MARIA", MARIA
+https://www.vavoo.to/play/448530931/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="FOX COMEDY HD", FOX COMEDY HD
+https://www.vavoo.to/play/3593975768/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="QUARTA RETE", QUARTA RETE
+https://www.vavoo.to/play/2804189085/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE CHIARA", TELE CHIARA
+https://www.vavoo.to/play/2487986216/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="STUDIOMED TV HD", STUDIOMED TV HD
+https://www.vavoo.to/play/1601605182/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="IUNIOR TV", IUNIOR TV
+https://www.vavoo.to/play/803540254/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ÈTV RETE 7 (6)", ÈTV RETE 7 (6)
+https://www.vavoo.to/play/4290207480/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 3 POZNAN", TVP 3 POZNAN
+https://www.vavoo.to/play/1827877290/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELENORD", TELENORD
+https://www.vavoo.to/play/2923215049/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="GRANDUCATO", GRANDUCATO
+https://www.vavoo.to/play/942153014/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEROMAGNA", TELEROMAGNA
+https://www.vavoo.to/play/2794392244/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="MTV ROCKS", MTV ROCKS
+https://www.vavoo.to/play/823658581/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ONDA TV", ONDA TV
+https://www.vavoo.to/play/1641481816/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEMISTRETTA", TELEMISTRETTA
+https://www.vavoo.to/play/1438440507/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Poland" tvg-name="BOOMERANG HD", BOOMERANG HD
+https://www.vavoo.to/play/2261418068/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="UNINETTUNO", UNINETTUNO
+https://www.vavoo.to/play/797328723/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PAROLE DI VITA", PAROLE DI VITA
+https://www.vavoo.to/play/1727695336/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TV QUI", TV QUI
+https://www.vavoo.to/play/3845119578/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA NUOVA TV", LA NUOVA TV
+https://www.vavoo.to/play/3894526183/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE LIGURIA SUD", TELE LIGURIA SUD
+https://www.vavoo.to/play/874797181/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELETRICOLORE", TELETRICOLORE
+https://www.vavoo.to/play/2521763009/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELECOLOR", TELECOLOR
+https://www.vavoo.to/play/1133239022/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ONDA TV", ONDA TV
+https://www.vavoo.to/play/203130779/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="ICARO TV", ICARO TV
+https://www.vavoo.to/play/2392139008/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="LA TR3", LA TR3
+https://www.vavoo.to/play/2210996603/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PRIMA TV", PRIMA TV
+https://www.vavoo.to/play/91764224/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETE TV ITALIA", RETE TV ITALIA
+https://www.vavoo.to/play/4131055018/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEBARI", TELEBARI
+https://www.vavoo.to/play/1362891370/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEBOARIO", TELEBOARIO
+https://www.vavoo.to/play/3383364202/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEARTE", TELEARTE
+https://www.vavoo.to/play/2586615238/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="VCO AZZURRA TV", VCO AZZURRA TV
+https://www.vavoo.to/play/2070070755/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TVRS", TVRS
+https://www.vavoo.to/play/1488746638/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RADIO CAPITAL", RADIO CAPITAL
+https://www.vavoo.to/play/421441745/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SENATO TV", SENATO TV
+https://www.vavoo.to/play/2002360508/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE TRICOLORE", TELE TRICOLORE
+https://www.vavoo.to/play/2314613216/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEPACE 2", TELEPACE 2
+https://www.vavoo.to/play/3973472252/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEPACE TRENTO", TELEPACE TRENTO
+https://www.vavoo.to/play/1794299695/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTTR", RTTR
+https://www.vavoo.to/play/3799362189/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEMANTOVA", TELEMANTOVA
+https://www.vavoo.to/play/1425327889/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE ROMAGNA", TELE ROMAGNA
+https://www.vavoo.to/play/129446377/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TRENTINO TV", TRENTINO TV
+https://www.vavoo.to/play/2797857045/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE CHIARA", TELE CHIARA
+https://www.vavoo.to/play/2521825076/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE FRIULI", TELE FRIULI
+https://www.vavoo.to/play/3551882344/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PEER TV ALTO ADIGE", PEER TV ALTO ADIGE
+https://www.vavoo.to/play/1789522005/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELECITTA", TELECITTA
+https://www.vavoo.to/play/2676235978/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTR 99 TV", RTR 99 TV
+https://www.vavoo.to/play/1621632780/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="SENATO TV", SENATO TV
+https://www.vavoo.to/play/2895549551/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TVA VICENZA", TVA VICENZA
+https://www.vavoo.to/play/3038112906/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="OL3 RADIO", OL3 RADIO
+https://www.vavoo.to/play/68102734/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RETEBIELLA TV", RETEBIELLA TV
+https://www.vavoo.to/play/109447913/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE TUSCIASABINA 2000", TELE TUSCIASABINA 2000
+https://www.vavoo.to/play/545707096/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELE SIRIO", TELE SIRIO
+https://www.vavoo.to/play/2188469219/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEMIA", TELEMIA
+https://www.vavoo.to/play/3243762931/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="RTTR TV", RTTR TV
+https://www.vavoo.to/play/1791879692/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="PEOPLE ARE AWESOME", PEOPLE ARE AWESOME
+https://www.vavoo.to/play/1087345241/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TRENTINO TV", TRENTINO TV
+https://www.vavoo.to/play/2764553737/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELESIRIO", TELESIRIO
+https://www.vavoo.to/play/1357694629/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEPACE 4", TELEPACE 4
+https://www.vavoo.to/play/1670818396/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Italy" tvg-name="TELEPACE 3", TELEPACE 3
+https://www.vavoo.to/play/3518395980/index.m3u8
