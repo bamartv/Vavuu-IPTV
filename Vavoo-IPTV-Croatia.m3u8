@@ -1,0 +1,477 @@
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 1", ARENA SPORT 1
+https://www.vavoo.to/play/2520618322/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="MAX SPORT 1", MAX SPORT 1
+https://www.vavoo.to/play/1493433126/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL", RTL
+https://www.vavoo.to/play/4154768953/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NOVA TV", NOVA TV
+https://www.vavoo.to/play/2223753201/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 1", SPORT KLUB 1
+https://www.vavoo.to/play/478362278/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 4", ARENA SPORT 4
+https://www.vavoo.to/play/1591548450/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NAT GEO", NAT GEO
+https://www.vavoo.to/play/1134438727/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR TV ACTION", CINESTAR TV ACTION
+https://www.vavoo.to/play/3549681904/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HBO 2", HBO 2
+https://www.vavoo.to/play/1142487290/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HRT 1", HRT 1
+https://www.vavoo.to/play/450526005/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 3", ARENA SPORT 3
+https://www.vavoo.to/play/3976054322/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 3", SPORT KLUB 3
+https://www.vavoo.to/play/1715694022/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL ZWEI", RTL ZWEI
+https://www.vavoo.to/play/4140438052/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HAJDUK TV", HAJDUK TV
+https://www.vavoo.to/play/3140991496/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 10", ARENA SPORT 10
+https://www.vavoo.to/play/1811236133/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 2", ARENA SPORT 2
+https://www.vavoo.to/play/3516788610/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR FANTASY", CINESTAR FANTASY
+https://www.vavoo.to/play/2874980355/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DOMA", DOMA
+https://www.vavoo.to/play/1628933788/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HRT 4", HRT 4
+https://www.vavoo.to/play/3527078981/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HBO", HBO
+https://www.vavoo.to/play/2787501807/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://www.vavoo.to/play/3102386342/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 2", SPORT KLUB 2
+https://www.vavoo.to/play/1529036918/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 7", ARENA SPORT 7
+https://www.vavoo.to/play/427647218/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="KLASIK TV", KLASIK TV
+https://www.vavoo.to/play/888503192/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINEMAX", CINEMAX
+https://www.vavoo.to/play/3608745038/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="VIASAT EXPLORE", VIASAT EXPLORE
+https://www.vavoo.to/play/447784107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HRT 2", HRT 2
+https://www.vavoo.to/play/1568276965/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="LAUDATO TV", LAUDATO TV
+https://www.vavoo.to/play/2418852749/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 6", ARENA SPORT 6
+https://www.vavoo.to/play/605899074/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB FIGHT", SPORT KLUB FIGHT
+https://www.vavoo.to/play/791133812/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CRO MAX SELECT 3", CRO MAX SELECT 3
+https://www.vavoo.to/play/2043497956/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="KLAPE I TAMBURE TV", KLAPE I TAMBURE TV
+https://www.vavoo.to/play/1905749171/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DALMACIJA", DALMACIJA
+https://www.vavoo.to/play/3805727741/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SCI", SCI
+https://www.vavoo.to/play/3101065440/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ALJAZEERA BALKANS", ALJAZEERA BALKANS
+https://www.vavoo.to/play/865384730/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="JUGOTON TV", JUGOTON TV
+https://www.vavoo.to/play/4243203790/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="KINO TV", KINO TV
+https://www.vavoo.to/play/4199606703/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="MAX SPORT 2", MAX SPORT 2
+https://www.vavoo.to/play/514032118/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NOVA CINEMA", NOVA CINEMA
+https://www.vavoo.to/play/3048394958/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR TV PREMIERE 1", CINESTAR TV PREMIERE 1
+https://www.vavoo.to/play/2277793336/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://www.vavoo.to/play/449505325/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HISTORY 2", HISTORY 2
+https://www.vavoo.to/play/2428853789/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="AMC", AMC
+https://www.vavoo.to/play/119274728/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR TV COMEDY", CINESTAR TV COMEDY
+https://www.vavoo.to/play/755040508/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 4", SPORT KLUB 4
+https://www.vavoo.to/play/3563304406/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 8", ARENA SPORT 8
+https://www.vavoo.to/play/2603480867/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR TV 1", CINESTAR TV 1
+https://www.vavoo.to/play/3160661843/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://www.vavoo.to/play/2781367833/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 5", ARENA SPORT 5
+https://www.vavoo.to/play/1673343890/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR TV PREMIERE 2", CINESTAR TV PREMIERE 2
+https://www.vavoo.to/play/3227788520/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL CRIME", RTL CRIME
+https://www.vavoo.to/play/821307549/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINESTAR TV 2", CINESTAR TV 2
+https://www.vavoo.to/play/4223903107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HBO ADRIA", HBO ADRIA
+https://www.vavoo.to/play/1535244980/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 8", SPORT KLUB 8
+https://www.vavoo.to/play/294869207/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="N1", N1
+https://www.vavoo.to/play/3404662127/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HBO 3", HBO 3
+https://www.vavoo.to/play/2037961034/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="M1 FILM", M1 FILM
+https://www.vavoo.to/play/2584643790/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 6", SPORT KLUB 6
+https://www.vavoo.to/play/2929977014/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="LOV I RIBOLOV", LOV I RIBOLOV
+https://www.vavoo.to/play/2851193921/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HRT 3", HRT 3
+https://www.vavoo.to/play/1612326997/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 5", SPORT KLUB 5
+https://www.vavoo.to/play/3909327974/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HISTORY", HISTORY
+https://www.vavoo.to/play/907759413/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="24 KITCHEN", 24 KITCHEN
+https://www.vavoo.to/play/1563013817/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 10", SPORT KLUB 10
+https://www.vavoo.to/play/3517959567/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://www.vavoo.to/play/3720298581/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="JADRAN TV", JADRAN TV
+https://www.vavoo.to/play/442616051/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DOCUBOX", DOCUBOX
+https://www.vavoo.to/play/2995435119/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="M1 FILM GOLD", M1 FILM GOLD
+https://www.vavoo.to/play/3781789209/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="OSJECKA TV", OSJECKA TV
+https://www.vavoo.to/play/3843168037/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="VIASAT KINO PREMIERE", VIASAT KINO PREMIERE
+https://www.vavoo.to/play/1104725480/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DOKU TV", DOKU TV
+https://www.vavoo.to/play/3277456770/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL PASSION", RTL PASSION
+https://www.vavoo.to/play/2361340682/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
+https://www.vavoo.to/play/283006246/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="TLC", TLC
+https://www.vavoo.to/play/4188118052/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CMC TV", CMC TV
+https://www.vavoo.to/play/184747089/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NOVA WORLD", NOVA WORLD
+https://www.vavoo.to/play/77046719/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ARENA SPORT 9", ARENA SPORT 9
+https://www.vavoo.to/play/2790121107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="PLAVA VINKOVA", PLAVA VINKOVA
+https://www.vavoo.to/play/4087602151/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NICKELODEON", NICKELODEON
+https://www.vavoo.to/play/4087698623/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="AXN", AXN
+https://www.vavoo.to/play/2895162225/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CINEMAX 2", CINEMAX 2
+https://www.vavoo.to/play/2696386398/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://www.vavoo.to/play/713781154/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NOVA FAMILY", NOVA FAMILY
+https://www.vavoo.to/play/983620579/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="FOX CRIME", FOX CRIME
+https://www.vavoo.to/play/669981290/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="AXN SPIN", AXN SPIN
+https://www.vavoo.to/play/3438430055/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="PICKBOX TV", PICKBOX TV
+https://www.vavoo.to/play/1164533478/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CRO MAX SELECT 5", CRO MAX SELECT 5
+https://www.vavoo.to/play/4136482884/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL ADRIA", RTL ADRIA
+https://www.vavoo.to/play/2937984085/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORT KLUB 9", SPORT KLUB 9
+https://www.vavoo.to/play/754151783/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL CROATIA WORLD", RTL CROATIA WORLD
+https://www.vavoo.to/play/589720137/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SPORTSKA", SPORTSKA
+https://www.vavoo.to/play/1395683442/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="FOX MOVIES", FOX MOVIES
+https://www.vavoo.to/play/2403774632/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="Z1", Z1
+https://www.vavoo.to/play/1386759650/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CRO MAX SELECT 4", CRO MAX SELECT 4
+https://www.vavoo.to/play/3421344244/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="BABY TV", BABY TV
+https://www.vavoo.to/play/3458882662/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL LIVING", RTL LIVING
+https://www.vavoo.to/play/3489079056/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="HRT INTERNATIONAL", HRT INTERNATIONAL
+https://www.vavoo.to/play/2758437799/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DIVA", DIVA
+https://www.vavoo.to/play/1809205758/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="AURORA TV", AURORA TV
+https://www.vavoo.to/play/717801755/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CRIME", CRIME
+https://www.vavoo.to/play/115056047/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ZDRAVA TV 7 HRVATSKA", ZDRAVA TV 7 HRVATSKA
+https://www.vavoo.to/play/2945780087/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="KANAL RI", KANAL RI
+https://www.vavoo.to/play/715398475/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="FOX CHANNEL", FOX CHANNEL
+https://www.vavoo.to/play/2950728558/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="VTV", VTV
+https://www.vavoo.to/play/700126473/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SBTV", SBTV
+https://www.vavoo.to/play/2158481327/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="MINIMAX", MINIMAX
+https://www.vavoo.to/play/3535809031/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="LIBERTAS TV", LIBERTAS TV
+https://www.vavoo.to/play/2189644056/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="NICK JR", NICK JR
+https://www.vavoo.to/play/845048171/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="E", E
+https://www.vavoo.to/play/3234357806/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="SLAVONSKA TV", SLAVONSKA TV
+https://www.vavoo.to/play/1719659925/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CRO MAX SELECT 7", CRO MAX SELECT 7
+https://www.vavoo.to/play/2353916708/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL KOCKICA", RTL KOCKICA
+https://www.vavoo.to/play/3920461683/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="TV BANOVINA", TV BANOVINA
+https://www.vavoo.to/play/3395291540/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="CRO MAX SELECT 6", CRO MAX SELECT 6
+https://www.vavoo.to/play/2972566164/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="DA VINCI", DA VINCI
+https://www.vavoo.to/play/73167267/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="MINI TV", MINI TV
+https://www.vavoo.to/play/3565824619/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="FOX LIFE", FOX LIFE
+https://www.vavoo.to/play/3293378385/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="ZAPAD", ZAPAD
+https://www.vavoo.to/play/1812836441/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Croatia" tvg-name="MTV", MTV
+https://www.vavoo.to/play/1281547581/index.m3u8
