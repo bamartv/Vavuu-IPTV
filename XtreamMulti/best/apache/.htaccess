@@ -1,0 +1,57 @@
+
+RewriteEngine On
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_series_info&series_id=([0-9]+)$
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_series_id_%1 [L]
+
+
+
+# Weiterleitung für M3U-Plus-Anfragen (derzeit auskommentiert)
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&type=m3u.*$
+RewriteRule ^get\.php$ http://127.0.0.1:8080/best/live/htvuser/htvpw/live.m3u [L]
+
+# Weiterleitung für XMLTV-Anfragen
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw$
+RewriteRule ^xmltv\.php$ http://127.0.0.1:8080/live/guide.xml [L,R=301]
+
+# Weiterleitung für panel_api-Anfragen
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw$
+RewriteRule ^panel_api\.php$ http://127.0.0.1:8080/best/api/panel_api [L]
+
+# Weiterleitung für player_api-Anfragen
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw$
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/player_api [L]
+
+# Weiterleitung für Live-TV-Kategorien
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_live_categories
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_live_categories [L]
+
+# Weiterleitung für Live-TV-Streams
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_live_streams
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_live_streams [L]
+
+# Weiterleitung für Live-TV-Streams mit Kategorie-ID
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_live_streams&category_id=([0-9]+)$
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/live_category_id_%1 [L]
+
+
+
+
+
+
+# Weiterleitung für Live-TV-Streams
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_vod_streams
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_vod_streams [L]
+
+# Weiterleitung für Live-TV-Kategorien
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_vod_categories
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_vod_categories [L]
+
+# Weiterleitung für Live-TV-Kategorien
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_series_categories
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_series_categories [L]
+
+# Weiterleitung für Live-TV-Streams
+RewriteCond %{QUERY_STRING} ^username=htvuser&password=htvpw&action=get_series
+RewriteRule ^player_api\.php$ http://127.0.0.1:8080/best/api/get_series_streams [L]
+
+
