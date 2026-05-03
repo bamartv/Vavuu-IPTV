@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+aaa
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275551","name":"[GR] DREAM FM 90.6","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275551_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275550","name":"[GR] PLANET RADIO 90.6","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275550_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275549","name":"[GR] VENUS 91 FM","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275549_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275548","name":"[GR] RADIO ENTASH 93.5","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275548_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275547","name":"[GR] KRITIKORAMA FM 93.8","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275547_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275546","name":"[GR] FLY RADIO 95.9","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275546_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275545","name":"[GR] RADIO XERSONISOS 97.2","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275545_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275544","name":"[GR] MAGIC 98.2","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275544_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275543","name":"[GR] SFERA 98.7","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275543_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275542","name":"[GR] CITY FM 100","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275542_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275541","name":"[GR] TEAM FM 102","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275541_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275540","name":"[GR] LOVE RADIO KPHTHS 102.8","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275540_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275539","name":"[GR] RADIO AGIOY NIKOLAOY 104.4","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275539_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275538","name":"[GR] ALPHA FM 104.7","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275538_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

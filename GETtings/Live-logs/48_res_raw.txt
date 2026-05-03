@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a56
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275597","name":"[FR] AIR CONNECT","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275597_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275596","name":"[FR] BEL RTL","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275596_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275595","name":"[FR] CHERIE FM","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275595_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275594","name":"[FR] FUN RADIO","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275594_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275593","name":"[FR] JAZZ RADIO","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275593_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275592","name":"[FR] M RADIO","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275592_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275591","name":"[FR] MELODY","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275591_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275590","name":"[FR] NOVA BORDEAUX","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275590_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275589","name":"[FR] NOVA LYON","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275589_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275588","name":"[FR] NOVA PARIS","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275588_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275587","name":"[FR] NRJ","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275587_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275586","name":"[FR] PULS RADIO","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275586_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275585","name":"[FR] RADIO CONTACT","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275585_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275584","name":"[FR] RADIO NOTRE DAME","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275584_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

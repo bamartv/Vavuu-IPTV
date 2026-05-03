@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+aa1
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275721","name":"[NL] PIRATENRADIO.NL ","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275721_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275720","name":"[NL] RADIO NL","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275720_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275719","name":"[NL] RADIO RONALISA","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275719_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275718","name":"[NL] TEAM FM PIRATENPLATEN","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275718_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275717","name":"[NL] WOONWAGENRADIO","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275717_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275716","name":"[BE] RADIO 1","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275716_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275715","name":"[BE] RADIO 1 CLASSICS","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275715_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275714","name":"[BE] RADIO 1 LAGE LANDEN","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275714_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275713","name":"[BE] RADIO 2 ANTWERPEN","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275713_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275712","name":"[BE] RADIO 2 LIMBURG","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275712_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275711","name":"[BE] RADIO 2 OOST VLAANDEREN","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275711_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275710","name":"[BE] RADIO 2 VLAAMS BRABANT","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275710_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275708","name":"[BE] CROOZE","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275708_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275707","name":"[BE] DE JUKEBOX","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275707_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

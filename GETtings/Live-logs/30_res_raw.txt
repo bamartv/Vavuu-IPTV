@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a48
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275763","name":"[NL] RADIO PURMEREND","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275763_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275762","name":"[NL] RADIO TEXEL","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275762_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275761","name":"[NL] RADIONL EDITIE NOORD HOLLAND","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275761_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275760","name":"[NL] SALTO RADIO [AMSTERDAM]","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275760_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275759","name":"[NL] RADIO RIJNMOND","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275759_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275758","name":"[NL] KISSFM NETHERLANDS","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275758_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275757","name":"[NL] NASHVILLE FM","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275757_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275756","name":"[NL] RADIO ATLANTIS ROTTERDAM","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275756_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275755","name":"[NL] RADIO FANTASY ROTTERDAM","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275755_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275754","name":"[NL] RIDDERKERK FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275754_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275753","name":"[NL] GO-FM [TERNEUZEN]","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275753_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275752","name":"[NL] RADIONL EDITIE ZEELAND","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275752_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275751","name":"[NL] WFM96 [MIDDELBURG,VLISSINGEN]","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275751_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275750","name":"[NL] OMROEP BRABANT RAD
+96
+IO","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275750_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

@@ -1,0 +1,11 @@
+GET /server/load.php?type=radio&action=get_ordered_list&genre=*&fav=0&p=12&JsHttpRequest=1-xml HTTP/1.1
+User-Agent: Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+X-User-Agent: Model: MAG250; Link: WiFi
+Referer: http://nexusconnects.org:80/c/
+Cookie: mac=A0:BB:3E:03:BA:6C; stb_lang=de; timezone=GMT
+Authorization: Bearer C65EC2E2453B6F4B0E8F34BCA1453881
+Accept: */*
+Host: nexusconnects.org
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

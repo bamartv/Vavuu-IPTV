@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:44 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+47
+{"js":{"mac":"A0:BB:3E:03:BA:6C","phone":"February 25, 2027, 6:12 pm"}}
+0
+

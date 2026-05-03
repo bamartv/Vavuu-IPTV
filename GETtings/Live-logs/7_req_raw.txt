@@ -1,0 +1,11 @@
+GET /server/load.php?type=stb&action=get_profile&hd=1&ver=ImageDescription%3A%200.2.18-r14-pub-250%3B%20ImageDate%3A%20Fri%20Jan%2015%2015%3A20%3A44%20EET%202016%3B%20PORTAL%20version%3A%205.1.0%3B%20API%20Version%3A%20JS%20API%20version%3A%20328%3B%20STB%20API%20version%3A%20134%3B%20Player%20Engine%20version%3A%200x566&num_banks=2&sn=FC3C3C9CFAF2B&stb_type=MAG250&image_version=218&video_out=hdmi&device_id=&device_id2=&signature=&auth_second_step=1&hw_version=1.7-BD-00&not_valid_token=0&client_type=STB&hw_version_2=fc3c3c9cfaf2bd76d897ed1e2de3f7d3&timestamp=1777768783&api_signature=263&metrics=%7B%22mac%22%3A%22A0%3ABB%3A3E%3A03%3ABA%3A6C%22%2C%22sn%22%3A%22FC3C3C9CFAF2B%22%2C%22model%22%3A%22MAG250%22%2C%22type%22%3A%22STB%22%2C%22uid%22%3A%22%22%2C%22random%22%3A%2293fa12705aba6a5d811923ba342cfdd1%22%7D&JsHttpRequest=1-xml HTTP/1.1
+User-Agent: Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+X-User-Agent: Model: MAG250; Link: WiFi
+Referer: http://nexusconnects.org:80/c/
+Cookie: mac=A0:BB:3E:03:BA:6C; stb_lang=de; timezone=GMT
+Authorization: Bearer C65EC2E2453B6F4B0E8F34BCA1453881
+Accept: */*
+Host: nexusconnects.org
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a69
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275706","name":"[BE] MNM","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275706_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275705","name":"[BE] JOE","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275705_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275704","name":"[BE] JOUW RADIO BELGIE","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275704_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275702","name":"[BE] NOSTALGIE","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275702_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275701","name":"[BE] NRJ VLAANDEREN","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275701_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275700","name":"[BE] Q-MUSIC","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275700_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275699","name":"[BE] RADIO 19","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275699_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275698","name":"[BE] RADIO SEVEN COSTA BLANCA","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275698_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275697","name":"[BE] RADIO TOTAAL","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275697_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275695","name":"[BE] STUDIO BRUSSEL","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275695_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275694","name":"[BE] TRENDY FM","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275694_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275692","name":"[DE] 104.6 RTL 80ER","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275692_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275690","name":"[DE] BYTE FM","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275690_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275689","name":"[DE] DELTA RADIO","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275689_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

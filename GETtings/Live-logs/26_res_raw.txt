@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+ab3
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275777","name":"[NL] RADIO NL EDITIE TWENTE","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275777_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275776","name":"[NL] RTV BORNE","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275776_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275775","name":"[NL] ZWOLLE FM","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275775_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275774","name":"[NL] RADIO M [UTRECHT]","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275774_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275773","name":"[NL] EEMLAND 1","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275773_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275772","name":"[NL] JINX RADIO [UTRECHT]","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275772_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275771","name":"[NL] NH [RTV NOORD-HOLLAND]","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275771_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275770","name":"[NL] DANCE.FM :: THE BEAT OF AMSTERDAM","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275770_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275769","name":"[NL] DANCE RADIO AMSTERDAM","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275769_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275768","name":"[NL] HEEMSKERK FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275768_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275767","name":"[NL] NH GOOI","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275767_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275766","name":"[NL] OMROEP CASTRICUM","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275766_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275765","name":"[NL] RADIO BEVERWIJK","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275765_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275764","name":"[NL] RADIO AALSMEER","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275764_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

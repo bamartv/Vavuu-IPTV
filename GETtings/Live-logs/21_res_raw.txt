@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a7a
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275833","name":"[NL] NPO FUNX NL","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275833_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275832","name":"[NL] 40 ROCK RADIO","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275832_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275831","name":"[NL] 100% NL FM","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275831_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275830","name":"[NL] 192 RADIO","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275830_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275829","name":"[NL] RADIO 538","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275829_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275828","name":"[NL] ARROW CLASSIC ROCK","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275828_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275827","name":"[NL] BNR NIEUWSRADIO","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275827_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275826","name":"[NL] CLASSIC NL","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275826_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275825","name":"[NL] CONCERTZENDER","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275825_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275824","name":"[NL] GRAND PRIX RADIO","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275824_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275823","name":"[NL] JUKE HOUSE","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275823_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275822","name":"[NL] QMUSIC","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275822_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275821","name":"[NL] RADIO 10","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275821_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275820","name":"[NL] RADIO 10 60S&70S HITS","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275820_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

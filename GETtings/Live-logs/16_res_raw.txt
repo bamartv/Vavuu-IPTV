@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:44 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a48
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"1474220","name":"[NL] MAASLAND","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/1474220_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"1453621","name":"[NL] VENLOSTEDJE","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/1453621_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"1453620","name":"[NL] OMROEP VENLO","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/1453620_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"1403125","name":"[NL] RADIO NOORDZEE","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/1403125_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"1403124","name":"[NL]  RADIO STAD DEN HAAG","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/1403124_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"974999","name":"[NL] JOE NL","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/974999_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"721407","name":"[NL] RADIO JND","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/721407_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275842","name":"[NL] NPO RADIO 1","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275842_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275840","name":"[NL] NPO RADIO 2","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275840_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275839","name":"[NL] NPO 3FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275839_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275838","name":"[NL] NPO RADIO 5","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275838_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275837","name":"[NL] NPO KLASSIEK","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275837_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275836","name":"[NL] NPO SOUL & JAZZ","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275836_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275834","name":"[NL] NPO STERREN.NL","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275834_","count":0,"open":1,"use_http_tmp_li
+34
+nk":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

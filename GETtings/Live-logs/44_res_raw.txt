@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a7c
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275639","name":"[IT] M2O","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275639_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275638","name":"[IT] RADIO BOMBO","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275638_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275637","name":"[IT] RADIO CAPITAL","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275637_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275636","name":"[IT] RADIO CIAO","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275636_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275635","name":"[IT] RADIO COMPANY","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275635_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275634","name":"[IT] RADIO DEEJAY","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275634_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275633","name":"[IT] RADIO FM ITALIA","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275633_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275632","name":"[IT] RADIO IBIZA","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275632_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275631","name":"[IT] RADIO KISSKISS","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275631_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275630","name":"[IT] RADIO NORBA","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275630_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275629","name":"[IT] RADIO PITERPAN","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275629_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275628","name":"[IT] RADIO PUNTO ZERO","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275628_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275627","name":"[IT] RADIO RECORD","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275627_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275626","name":"[IT] RADIO SEMPREVIVA","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275626_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

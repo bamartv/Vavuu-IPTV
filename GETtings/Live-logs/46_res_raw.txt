@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a85
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275611","name":"[UK] CHEEKY RADIO","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275611_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275610","name":"[UK] GORGEOUS FM","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275610_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275609","name":"[UK] KANE FM","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275609_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275608","name":"[UK] NATION RADIO","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275608_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275607","name":"[UK] PRIDE RADIO","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275607_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275606","name":"[UK] REWIND RADIO CORNWALL","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275606_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275605","name":"[UK] SCOUT RADIO UK","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275605_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275604","name":"[UK] SPICE RADIO","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275604_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275603","name":"[UK] SUNSHINE FM","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275603_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275602","name":"[UK] TEMPO FM 107.4","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275602_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275601","name":"[UK] TIMES RADIO UK","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275601_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275600","name":"[UK] VIRGIN RADIO UK","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275600_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275599","name":"[UK] WORLDWIDE FM","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275599_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275598","name":"[UK] ZEST NORTH WEST","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275598_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

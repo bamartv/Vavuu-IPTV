@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+ab6
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275537","name":"[GR] TOP FM \u03a7\u0391\u039d\u0399\u03a9\u039d 106.5","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275537_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275536","name":"[GR] COOL FM 106.8","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275536_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275535","name":"[GR] YDPOGEIOS 106.9","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275535_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275534","name":"[GR] RADIO ACTIVE 91.3","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275534_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275533","name":"[GR] GALAXIAS 93 FM","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275533_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275532","name":"[GR] MESOGEIOS 105.4","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275532_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275531","name":"[GR] ERT RODOS","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275531_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275530","name":"[GR] RODOS FM","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275530_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275529","name":"[GR] BEST FM 103.1","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275529_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275528","name":"[GR] FEELGOOD RADIO 104.9","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275528_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275527","name":"[GR] PANORAMA 100,8FM","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275527_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275526","name":"[GR] POWER FM 90.2","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275526_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275525","name":"[GR] RADIO ALFA 96","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275525_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275524","name":"[GR] ENERGY FM 96.6","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275524_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

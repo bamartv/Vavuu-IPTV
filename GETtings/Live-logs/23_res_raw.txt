@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a48
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275819","name":"[NL] RADIO 10 80S HITS","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275819_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275818","name":"[NL] RADIO 10 90S HITS","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275818_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275817","name":"[NL] RADIO 10 DISCO CLASSICS","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275817_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275816","name":"[NL] RADIO 10 LOVE SONGS","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275816_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275815","name":"[NL] RADIO 972","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275815_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275814","name":"[NL] RADIO CONTINU","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275814_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275813","name":"[NL] RADIO DECIBEL","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275813_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275812","name":"[NL] RADIONL","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275812_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275811","name":"[NL] RADIO VERONICA","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275811_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275810","name":"[NL] SKY RADIO 101 FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275810_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275809","name":"[NL] SKY RADIO | THE CHRISTMAS STATION","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275809_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275808","name":"[NL] SLAM!","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275808_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275807","name":"[NL] SOULRADIO","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275807_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275806","name":"[NL] SUBLIME","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275806_","cou
+53
+nt":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

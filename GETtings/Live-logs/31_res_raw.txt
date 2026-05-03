@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+aa2
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275749","name":"[NL] C-DANCE RETRO","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275749_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275748","name":"[NL] OMROEP BEST","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275748_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275747","name":"[NL] OMROEP HELMOND","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275747_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275746","name":"[NL] OMROEP VELDHOVEN","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275746_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275745","name":"[NL] RADIO 10 BRABANT","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275745_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275744","name":"[NL] ZUIDWEST FM","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275744_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275743","name":"[NL] L1 RADIO","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275743_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275742","name":"[NL] L1 RADIO L11 ALAAFRADIO","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275742_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275741","name":"[NL] 077 RADIO [MEIJEL]","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275741_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275740","name":"[NL] MEER FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275740_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275739","name":"[NL] OMROE 3ML [HEYHUYZEN E.O]","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275739_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275738","name":"[NL] OMROEP PEEL EN MAAS","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275738_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275737","name":"[NL] OMROEP VENRAY","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275737_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275736","name":"[NL] Q-MUSIC LIMBURG","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275736_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

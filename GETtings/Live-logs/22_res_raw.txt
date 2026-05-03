@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+aae
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275805","name":"[NL] TEAM FM","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275805_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275804","name":"[NL] TRAFFIC RADIO","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275804_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275803","name":"[NL] WILD FM","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275803_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275802","name":"[NL] OMROP FRYSLAN RADIO","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275802_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275801","name":"[NL] FRYSK FM","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275801_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275800","name":"[NL] OMROEP RSH","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275800_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275799","name":"[NL] RADIONL EDITIE FRIESLAND","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275799_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275798","name":"[NL] RTV DRENTHE RADIO","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275798_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275797","name":"[NL] GIGANT FM ERICA","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275797_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275796","name":"[NL] HITSTREAM FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275796_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275795","name":"[NL] LOKALE OMROEP HOOGEVEEN","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275795_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275794","name":"[NL] OMROEP FLEVOLAND RADIO","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275794_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275793","name":"[NL] DB962 | ON AIR EVERYWHERE","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275793_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275792","name":"[NL] GIRLPOWER FLEVOLAND","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275792_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

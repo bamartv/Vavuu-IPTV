@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+aa1
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275735","name":"[NL] RADIO EXCELLENT [HAAG]","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275735_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275734","name":"[NL] RADIO IDEAAL [BERG AAN DE MAAS]","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275734_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275733","name":"[NL] RADIO LIMBURGIA","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275733_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275732","name":"[NL] RADIO MAASDUINEN","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275732_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275731","name":"[NL] RADIO VENLOOSCH","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275731_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275730","name":"[NL] RADIO ZUYD [HEERLEN]","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275730_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275729","name":"[NL] RTV PARKSTAD","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275729_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275728","name":"[NL] WEERT FM","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275728_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275727","name":"[NL] LOO RADIO ","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275727_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275726","name":"[NL] ACCENT FM","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275726_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275725","name":"[NL] DOUBLE Z","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275725_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275724","name":"[NL] GOUDENPIRATENHITS","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275724_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275723","name":"[NL] HITPOWER","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275723_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275722","name":"[NL] OUDE PIRATEN HITS","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275722_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

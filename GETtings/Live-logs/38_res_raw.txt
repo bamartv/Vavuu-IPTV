@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a38
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275688","name":"[DE] EGO FM","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275688_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275686","name":"[DE] HOLA FM","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275686_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275685","name":"[DE] HR1","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275685_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275684","name":"[DE] HR2","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275684_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275683","name":"[DE] HR3","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275683_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275682","name":"[DE] HR4","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275682_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275679","name":"[DE] KISS FM BERLIN 98.8","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275679_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275678","name":"[DE] MDR AKTUELL","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275678_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275677","name":"[DE] NDR 1","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275677_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275675","name":"[DE] NDR 2","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275675_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275674","name":"[DE] NOSTALGIE LIVE","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275674_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275673","name":"[DE] NRW1","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275673_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275672","name":"[DE] PEPPERMINT FM","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275672_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275670","name":"[DE] PURE FM","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275670_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

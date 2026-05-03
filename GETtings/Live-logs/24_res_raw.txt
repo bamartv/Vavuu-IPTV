@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:45 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a9e
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275791","name":"[NL] OMROEP ALMERE","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275791_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275790","name":"[NL] URK FM","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275790_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275789","name":"[NL] OMROEP GLD","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275789_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275788","name":"[NL] 1 ACHTERHOEK","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275788_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275787","name":"[NL] A1 RADIO [ACHTERHOEK]","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275787_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275786","name":"[NL] EDE FM","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275786_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275785","name":"[NL] LOKALE OMROEP ELBURG","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275785_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275784","name":"[NL] RN7 [NIJMEGEN]","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275784_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275783","name":"[NL] RTV RADIO OOST","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275783_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275782","name":"[NL] 1 TWENTE [ENSCHEDE]","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275782_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275781","name":"[NL] 1TWENTE [HENGELO]","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275781_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275780","name":"[NL] AAFM [ALMELO]","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275780_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275779","name":"[NL] HOI FM [HELLENDOORN]","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275779_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275778","name":"[NL] NOOS FM [OVERIJSSEL]","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275778_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

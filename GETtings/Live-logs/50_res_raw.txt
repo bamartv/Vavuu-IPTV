@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a70
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275583","name":"[FR] RFM","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275583_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275582","name":"[FR] RTL","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275582_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275581","name":"[FR] RTL 2","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275581_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275580","name":"[FR] SKYROCK RAP & RnB NON-STOP","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275580_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275579","name":"[FR] TRACE FM MARTINIQUE","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275579_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275578","name":"[FR] VIBRATION","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275578_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275577","name":"[FR] VIRGIN RADIO HITS","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275577_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275576","name":"[FR] VOLTAGE","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275576_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275575","name":"[FR] WIT FM","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275575_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275574","name":"[FR] WIT FM 2000","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275574_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275573","name":"[FR] WIT FM 90'S","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275573_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275572","name":"[FR] WIT FM CLUB","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275572_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275571","name":"[FR] WIT FM EN FRANCAIS","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275571_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275570","name":"[FR] WIT FM LATINA","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275570_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+

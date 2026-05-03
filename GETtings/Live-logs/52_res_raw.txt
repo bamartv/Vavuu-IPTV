@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 03 May 2026 00:39:46 GMT
+Content-Type: text/javascript;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+
+a66
+{"js":{"total_items":399,"max_page_items":14,"selected_item":0,"cur_page":0,"data":[{"id":"275569","name":"[FR] WIT FM LOUNGE","number":1,"cmd":"ffmpeg http:\/\/localhost\/ch\/275569_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275568","name":"[FR] WIT FM LOVE","number":2,"cmd":"ffmpeg http:\/\/localhost\/ch\/275568_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275567","name":"[FR] WIT FM WORK","number":3,"cmd":"ffmpeg http:\/\/localhost\/ch\/275567_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275566","name":"[GR] KISS FM 92.9","number":4,"cmd":"ffmpeg http:\/\/localhost\/ch\/275566_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275561","name":"[GR] ERA 1","number":5,"cmd":"ffmpeg http:\/\/localhost\/ch\/275561_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275560","name":"[GR] ERA 2","number":6,"cmd":"ffmpeg http:\/\/localhost\/ch\/275560_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275559","name":"[GR] ERA 3","number":7,"cmd":"ffmpeg http:\/\/localhost\/ch\/275559_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275558","name":"[GR] ERA 4","number":8,"cmd":"ffmpeg http:\/\/localhost\/ch\/275558_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275557","name":"[GR] ERA 5","number":9,"cmd":"ffmpeg http:\/\/localhost\/ch\/275557_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275556","name":"[GR] AVANTI FM 107.6","number":10,"cmd":"ffmpeg http:\/\/localhost\/ch\/275556_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275555","name":"[GR] RADIO AMORE 87.5","number":11,"cmd":"ffmpeg http:\/\/localhost\/ch\/275555_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275554","name":"[GR] FLY FM HERAKLION 88.1","number":12,"cmd":"ffmpeg http:\/\/localhost\/ch\/275554_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275553","name":"[GR] STAR FM 88.4","number":13,"cmd":"ffmpeg http:\/\/localhost\/ch\/275553_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0},{"id":"275552","name":"[GR] TALOS FM 88.6","number":14,"cmd":"ffmpeg http:\/\/localhost\/ch\/275552_","count":0,"open":1,"use_http_tmp_link":"1","status":1,"volume_correction":0,"fav":0}]}}
+0
+
